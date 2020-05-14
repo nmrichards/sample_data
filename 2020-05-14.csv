@@ -1,0 +1,1301 @@
+REF_DATE,GEO,DGUID,Case identifier number,Case information,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2020,Canada,2016A000011124,1,Date case was last updated - month,Number,223,units,0,v1146068950,1.1.1,5,,,,0
+2020,Canada,2016A000011124,1,Date case was last updated - day,Number,223,units,0,v1146068951,1.1.2,11,,,,0
+2020,Canada,2016A000011124,1,Episode date - month,Number,223,units,0,v1146068952,1.1.3,4,,,,0
+2020,Canada,2016A000011124,1,Episode date - day,Number,223,units,0,v1146068953,1.1.4,15,,,,0
+2020,Canada,2016A000011124,1,Gender,Number,223,units,0,v1146068954,1.1.5,1,,,,0
+2020,Canada,2016A000011124,1,Age group,Number,223,units,0,v1146068955,1.1.6,3,,,,0
+2020,Canada,2016A000011124,1,Transmission,Number,223,units,0,v1146068956,1.1.7,2,,,,0
+2020,Canada,2016A000011124,1,Hospitalization,Number,223,units,0,v1146068957,1.1.8,9,,,,0
+2020,Canada,2016A000011124,1,Intensive care unit,Number,223,units,0,v1146068958,1.1.9,9,,,,0
+2020,Canada,2016A000011124,1,Death,Number,223,units,0,v1146068959,1.1.10,2,,,,0
+2020,Canada,2016A000011124,1,"Hospitalization, previous status",Number,223,units,0,v1146163299,1.1.11,9,,,,0
+2020,Canada,2016A000011124,1,"Intensive care unit, previous status",Number,223,units,0,v1146163300,1.1.12,9,,,,0
+2020,Canada,2016A000011124,1,"Death, previous status",Number,223,units,0,v1146163301,1.1.13,2,,,,0
+2020,Canada,2016A000011124,2,Date case was last updated - month,Number,223,units,0,v1146068960,1.2.1,5,,,,0
+2020,Canada,2016A000011124,2,Date case was last updated - day,Number,223,units,0,v1146068961,1.2.2,11,,,,0
+2020,Canada,2016A000011124,2,Episode date - month,Number,223,units,0,v1146068962,1.2.3,4,,,,0
+2020,Canada,2016A000011124,2,Episode date - day,Number,223,units,0,v1146068963,1.2.4,27,,,,0
+2020,Canada,2016A000011124,2,Gender,Number,223,units,0,v1146068964,1.2.5,2,,,,0
+2020,Canada,2016A000011124,2,Age group,Number,223,units,0,v1146068965,1.2.6,1,,,,0
+2020,Canada,2016A000011124,2,Transmission,Number,223,units,0,v1146068966,1.2.7,2,,,,0
+2020,Canada,2016A000011124,2,Hospitalization,Number,223,units,0,v1146068967,1.2.8,2,,,,0
+2020,Canada,2016A000011124,2,Intensive care unit,Number,223,units,0,v1146068968,1.2.9,9,,,,0
+2020,Canada,2016A000011124,2,Death,Number,223,units,0,v1146068969,1.2.10,9,,,,0
+2020,Canada,2016A000011124,2,"Hospitalization, previous status",Number,223,units,0,v1146163302,1.2.11,2,,,,0
+2020,Canada,2016A000011124,2,"Intensive care unit, previous status",Number,223,units,0,v1146163303,1.2.12,9,,,,0
+2020,Canada,2016A000011124,2,"Death, previous status",Number,223,units,0,v1146163304,1.2.13,9,,,,0
+2020,Canada,2016A000011124,3,Date case was last updated - month,Number,223,units,0,v1146068970,1.3.1,5,,,,0
+2020,Canada,2016A000011124,3,Date case was last updated - day,Number,223,units,0,v1146068971,1.3.2,11,,,,0
+2020,Canada,2016A000011124,3,Episode date - month,Number,223,units,0,v1146068972,1.3.3,4,,,,0
+2020,Canada,2016A000011124,3,Episode date - day,Number,223,units,0,v1146068973,1.3.4,16,,,,0
+2020,Canada,2016A000011124,3,Gender,Number,223,units,0,v1146068974,1.3.5,1,,,,0
+2020,Canada,2016A000011124,3,Age group,Number,223,units,0,v1146068975,1.3.6,7,,,,0
+2020,Canada,2016A000011124,3,Transmission,Number,223,units,0,v1146068976,1.3.7,2,,,,0
+2020,Canada,2016A000011124,3,Hospitalization,Number,223,units,0,v1146068977,1.3.8,9,,,,0
+2020,Canada,2016A000011124,3,Intensive care unit,Number,223,units,0,v1146068978,1.3.9,9,,,,0
+2020,Canada,2016A000011124,3,Death,Number,223,units,0,v1146068979,1.3.10,9,,,,0
+2020,Canada,2016A000011124,3,"Hospitalization, previous status",Number,223,units,0,v1146163305,1.3.11,9,,,,0
+2020,Canada,2016A000011124,3,"Intensive care unit, previous status",Number,223,units,0,v1146163306,1.3.12,9,,,,0
+2020,Canada,2016A000011124,3,"Death, previous status",Number,223,units,0,v1146163307,1.3.13,9,,,,0
+2020,Canada,2016A000011124,4,Date case was last updated - month,Number,223,units,0,v1146068980,1.4.1,5,,,,0
+2020,Canada,2016A000011124,4,Date case was last updated - day,Number,223,units,0,v1146068981,1.4.2,11,,,,0
+2020,Canada,2016A000011124,4,Episode date - month,Number,223,units,0,v1146068982,1.4.3,4,,,,0
+2020,Canada,2016A000011124,4,Episode date - day,Number,223,units,0,v1146068983,1.4.4,13,,,,0
+2020,Canada,2016A000011124,4,Gender,Number,223,units,0,v1146068984,1.4.5,1,,,,0
+2020,Canada,2016A000011124,4,Age group,Number,223,units,0,v1146068985,1.4.6,3,,,,0
+2020,Canada,2016A000011124,4,Transmission,Number,223,units,0,v1146068986,1.4.7,2,,,,0
+2020,Canada,2016A000011124,4,Hospitalization,Number,223,units,0,v1146068987,1.4.8,2,,,,0
+2020,Canada,2016A000011124,4,Intensive care unit,Number,223,units,0,v1146068988,1.4.9,9,,,,0
+2020,Canada,2016A000011124,4,Death,Number,223,units,0,v1146068989,1.4.10,9,,,,0
+2020,Canada,2016A000011124,4,"Hospitalization, previous status",Number,223,units,0,v1146163308,1.4.11,2,,,,0
+2020,Canada,2016A000011124,4,"Intensive care unit, previous status",Number,223,units,0,v1146163309,1.4.12,9,,,,0
+2020,Canada,2016A000011124,4,"Death, previous status",Number,223,units,0,v1146163310,1.4.13,9,,,,0
+2020,Canada,2016A000011124,5,Date case was last updated - month,Number,223,units,0,v1146068990,1.5.1,5,,,,0
+2020,Canada,2016A000011124,5,Date case was last updated - day,Number,223,units,0,v1146068991,1.5.2,13,,,,0
+2020,Canada,2016A000011124,5,Episode date - month,Number,223,units,0,v1146068992,1.5.3,5,,,,0
+2020,Canada,2016A000011124,5,Episode date - day,Number,223,units,0,v1146068993,1.5.4,2,,,,0
+2020,Canada,2016A000011124,5,Gender,Number,223,units,0,v1146068994,1.5.5,2,,,,0
+2020,Canada,2016A000011124,5,Age group,Number,223,units,0,v1146068995,1.5.6,2,,,,0
+2020,Canada,2016A000011124,5,Transmission,Number,223,units,0,v1146068996,1.5.7,2,,,,0
+2020,Canada,2016A000011124,5,Hospitalization,Number,223,units,0,v1146068997,1.5.8,2,,,,0
+2020,Canada,2016A000011124,5,Intensive care unit,Number,223,units,0,v1146068998,1.5.9,9,,,,0
+2020,Canada,2016A000011124,5,Death,Number,223,units,0,v1146068999,1.5.10,9,,,,0
+2020,Canada,2016A000011124,5,"Hospitalization, previous status",Number,223,units,0,v1146163311,1.5.11,2,,,,0
+2020,Canada,2016A000011124,5,"Intensive care unit, previous status",Number,223,units,0,v1146163312,1.5.12,9,,,,0
+2020,Canada,2016A000011124,5,"Death, previous status",Number,223,units,0,v1146163313,1.5.13,9,,,,0
+2020,Canada,2016A000011124,6,Date case was last updated - month,Number,223,units,0,v1146069000,1.6.1,5,,,,0
+2020,Canada,2016A000011124,6,Date case was last updated - day,Number,223,units,0,v1146069001,1.6.2,11,,,,0
+2020,Canada,2016A000011124,6,Episode date - month,Number,223,units,0,v1146069002,1.6.3,4,,,,0
+2020,Canada,2016A000011124,6,Episode date - day,Number,223,units,0,v1146069003,1.6.4,28,,,,0
+2020,Canada,2016A000011124,6,Gender,Number,223,units,0,v1146069004,1.6.5,2,,,,0
+2020,Canada,2016A000011124,6,Age group,Number,223,units,0,v1146069005,1.6.6,2,,,,0
+2020,Canada,2016A000011124,6,Transmission,Number,223,units,0,v1146069006,1.6.7,2,,,,0
+2020,Canada,2016A000011124,6,Hospitalization,Number,223,units,0,v1146069007,1.6.8,2,,,,0
+2020,Canada,2016A000011124,6,Intensive care unit,Number,223,units,0,v1146069008,1.6.9,9,,,,0
+2020,Canada,2016A000011124,6,Death,Number,223,units,0,v1146069009,1.6.10,9,,,,0
+2020,Canada,2016A000011124,6,"Hospitalization, previous status",Number,223,units,0,v1146163314,1.6.11,2,,,,0
+2020,Canada,2016A000011124,6,"Intensive care unit, previous status",Number,223,units,0,v1146163315,1.6.12,9,,,,0
+2020,Canada,2016A000011124,6,"Death, previous status",Number,223,units,0,v1146163316,1.6.13,9,,,,0
+2020,Canada,2016A000011124,7,Date case was last updated - month,Number,223,units,0,v1146069010,1.7.1,5,,,,0
+2020,Canada,2016A000011124,7,Date case was last updated - day,Number,223,units,0,v1146069011,1.7.2,11,,,,0
+2020,Canada,2016A000011124,7,Episode date - month,Number,223,units,0,v1146069012,1.7.3,4,,,,0
+2020,Canada,2016A000011124,7,Episode date - day,Number,223,units,0,v1146069013,1.7.4,24,,,,0
+2020,Canada,2016A000011124,7,Gender,Number,223,units,0,v1146069014,1.7.5,1,,,,0
+2020,Canada,2016A000011124,7,Age group,Number,223,units,0,v1146069015,1.7.6,2,,,,0
+2020,Canada,2016A000011124,7,Transmission,Number,223,units,0,v1146069016,1.7.7,2,,,,0
+2020,Canada,2016A000011124,7,Hospitalization,Number,223,units,0,v1146069017,1.7.8,2,,,,0
+2020,Canada,2016A000011124,7,Intensive care unit,Number,223,units,0,v1146069018,1.7.9,9,,,,0
+2020,Canada,2016A000011124,7,Death,Number,223,units,0,v1146069019,1.7.10,9,,,,0
+2020,Canada,2016A000011124,7,"Hospitalization, previous status",Number,223,units,0,v1146163317,1.7.11,2,,,,0
+2020,Canada,2016A000011124,7,"Intensive care unit, previous status",Number,223,units,0,v1146163318,1.7.12,9,,,,0
+2020,Canada,2016A000011124,7,"Death, previous status",Number,223,units,0,v1146163319,1.7.13,9,,,,0
+2020,Canada,2016A000011124,8,Date case was last updated - month,Number,223,units,0,v1146069020,1.8.1,5,,,,0
+2020,Canada,2016A000011124,8,Date case was last updated - day,Number,223,units,0,v1146069021,1.8.2,11,,,,0
+2020,Canada,2016A000011124,8,Episode date - month,Number,223,units,0,v1146069022,1.8.3,4,,,,0
+2020,Canada,2016A000011124,8,Episode date - day,Number,223,units,0,v1146069023,1.8.4,30,,,,0
+2020,Canada,2016A000011124,8,Gender,Number,223,units,0,v1146069024,1.8.5,2,,,,0
+2020,Canada,2016A000011124,8,Age group,Number,223,units,0,v1146069025,1.8.6,8,,,,0
+2020,Canada,2016A000011124,8,Transmission,Number,223,units,0,v1146069026,1.8.7,2,,,,0
+2020,Canada,2016A000011124,8,Hospitalization,Number,223,units,0,v1146069027,1.8.8,1,,,,0
+2020,Canada,2016A000011124,8,Intensive care unit,Number,223,units,0,v1146069028,1.8.9,9,,,,0
+2020,Canada,2016A000011124,8,Death,Number,223,units,0,v1146069029,1.8.10,9,,,,0
+2020,Canada,2016A000011124,8,"Hospitalization, previous status",Number,223,units,0,v1146163320,1.8.11,1,,,,0
+2020,Canada,2016A000011124,8,"Intensive care unit, previous status",Number,223,units,0,v1146163321,1.8.12,9,,,,0
+2020,Canada,2016A000011124,8,"Death, previous status",Number,223,units,0,v1146163322,1.8.13,9,,,,0
+2020,Canada,2016A000011124,9,Date case was last updated - month,Number,223,units,0,v1146069030,1.9.1,5,,,,0
+2020,Canada,2016A000011124,9,Date case was last updated - day,Number,223,units,0,v1146069031,1.9.2,11,,,,0
+2020,Canada,2016A000011124,9,Episode date - month,Number,223,units,0,v1146069032,1.9.3,4,,,,0
+2020,Canada,2016A000011124,9,Episode date - day,Number,223,units,0,v1146069033,1.9.4,28,,,,0
+2020,Canada,2016A000011124,9,Gender,Number,223,units,0,v1146069034,1.9.5,2,,,,0
+2020,Canada,2016A000011124,9,Age group,Number,223,units,0,v1146069035,1.9.6,2,,,,0
+2020,Canada,2016A000011124,9,Transmission,Number,223,units,0,v1146069036,1.9.7,2,,,,0
+2020,Canada,2016A000011124,9,Hospitalization,Number,223,units,0,v1146069037,1.9.8,2,,,,0
+2020,Canada,2016A000011124,9,Intensive care unit,Number,223,units,0,v1146069038,1.9.9,9,,,,0
+2020,Canada,2016A000011124,9,Death,Number,223,units,0,v1146069039,1.9.10,9,,,,0
+2020,Canada,2016A000011124,9,"Hospitalization, previous status",Number,223,units,0,v1146163323,1.9.11,2,,,,0
+2020,Canada,2016A000011124,9,"Intensive care unit, previous status",Number,223,units,0,v1146163324,1.9.12,9,,,,0
+2020,Canada,2016A000011124,9,"Death, previous status",Number,223,units,0,v1146163325,1.9.13,9,,,,0
+2020,Canada,2016A000011124,10,Date case was last updated - month,Number,223,units,0,v1146069040,1.10.1,5,,,,0
+2020,Canada,2016A000011124,10,Date case was last updated - day,Number,223,units,0,v1146069041,1.10.2,11,,,,0
+2020,Canada,2016A000011124,10,Episode date - month,Number,223,units,0,v1146069042,1.10.3,4,,,,0
+2020,Canada,2016A000011124,10,Episode date - day,Number,223,units,0,v1146069043,1.10.4,16,,,,0
+2020,Canada,2016A000011124,10,Gender,Number,223,units,0,v1146069044,1.10.5,2,,,,0
+2020,Canada,2016A000011124,10,Age group,Number,223,units,0,v1146069045,1.10.6,1,,,,0
+2020,Canada,2016A000011124,10,Transmission,Number,223,units,0,v1146069046,1.10.7,1,,,,0
+2020,Canada,2016A000011124,10,Hospitalization,Number,223,units,0,v1146069047,1.10.8,2,,,,0
+2020,Canada,2016A000011124,10,Intensive care unit,Number,223,units,0,v1146069048,1.10.9,9,,,,0
+2020,Canada,2016A000011124,10,Death,Number,223,units,0,v1146069049,1.10.10,9,,,,0
+2020,Canada,2016A000011124,10,"Hospitalization, previous status",Number,223,units,0,v1146163326,1.10.11,2,,,,0
+2020,Canada,2016A000011124,10,"Intensive care unit, previous status",Number,223,units,0,v1146163327,1.10.12,9,,,,0
+2020,Canada,2016A000011124,10,"Death, previous status",Number,223,units,0,v1146163328,1.10.13,9,,,,0
+2020,Canada,2016A000011124,11,Date case was last updated - month,Number,223,units,0,v1146069050,1.11.1,5,,,,0
+2020,Canada,2016A000011124,11,Date case was last updated - day,Number,223,units,0,v1146069051,1.11.2,11,,,,0
+2020,Canada,2016A000011124,11,Episode date - month,Number,223,units,0,v1146069052,1.11.3,4,,,,0
+2020,Canada,2016A000011124,11,Episode date - day,Number,223,units,0,v1146069053,1.11.4,22,,,,0
+2020,Canada,2016A000011124,11,Gender,Number,223,units,0,v1146069054,1.11.5,2,,,,0
+2020,Canada,2016A000011124,11,Age group,Number,223,units,0,v1146069055,1.11.6,2,,,,0
+2020,Canada,2016A000011124,11,Transmission,Number,223,units,0,v1146069056,1.11.7,2,,,,0
+2020,Canada,2016A000011124,11,Hospitalization,Number,223,units,0,v1146069057,1.11.8,2,,,,0
+2020,Canada,2016A000011124,11,Intensive care unit,Number,223,units,0,v1146069058,1.11.9,9,,,,0
+2020,Canada,2016A000011124,11,Death,Number,223,units,0,v1146069059,1.11.10,9,,,,0
+2020,Canada,2016A000011124,11,"Hospitalization, previous status",Number,223,units,0,v1146163329,1.11.11,2,,,,0
+2020,Canada,2016A000011124,11,"Intensive care unit, previous status",Number,223,units,0,v1146163330,1.11.12,9,,,,0
+2020,Canada,2016A000011124,11,"Death, previous status",Number,223,units,0,v1146163331,1.11.13,9,,,,0
+2020,Canada,2016A000011124,12,Date case was last updated - month,Number,223,units,0,v1146069060,1.12.1,5,,,,0
+2020,Canada,2016A000011124,12,Date case was last updated - day,Number,223,units,0,v1146069061,1.12.2,11,,,,0
+2020,Canada,2016A000011124,12,Episode date - month,Number,223,units,0,v1146069062,1.12.3,4,,,,0
+2020,Canada,2016A000011124,12,Episode date - day,Number,223,units,0,v1146069063,1.12.4,29,,,,0
+2020,Canada,2016A000011124,12,Gender,Number,223,units,0,v1146069064,1.12.5,1,,,,0
+2020,Canada,2016A000011124,12,Age group,Number,223,units,0,v1146069065,1.12.6,5,,,,0
+2020,Canada,2016A000011124,12,Transmission,Number,223,units,0,v1146069066,1.12.7,2,,,,0
+2020,Canada,2016A000011124,12,Hospitalization,Number,223,units,0,v1146069067,1.12.8,2,,,,0
+2020,Canada,2016A000011124,12,Intensive care unit,Number,223,units,0,v1146069068,1.12.9,9,,,,0
+2020,Canada,2016A000011124,12,Death,Number,223,units,0,v1146069069,1.12.10,9,,,,0
+2020,Canada,2016A000011124,12,"Hospitalization, previous status",Number,223,units,0,v1146163332,1.12.11,2,,,,0
+2020,Canada,2016A000011124,12,"Intensive care unit, previous status",Number,223,units,0,v1146163333,1.12.12,9,,,,0
+2020,Canada,2016A000011124,12,"Death, previous status",Number,223,units,0,v1146163334,1.12.13,9,,,,0
+2020,Canada,2016A000011124,13,Date case was last updated - month,Number,223,units,0,v1146069070,1.13.1,5,,,,0
+2020,Canada,2016A000011124,13,Date case was last updated - day,Number,223,units,0,v1146069071,1.13.2,11,,,,0
+2020,Canada,2016A000011124,13,Episode date - month,Number,223,units,0,v1146069072,1.13.3,4,,,,0
+2020,Canada,2016A000011124,13,Episode date - day,Number,223,units,0,v1146069073,1.13.4,27,,,,0
+2020,Canada,2016A000011124,13,Gender,Number,223,units,0,v1146069074,1.13.5,1,,,,0
+2020,Canada,2016A000011124,13,Age group,Number,223,units,0,v1146069075,1.13.6,1,,,,0
+2020,Canada,2016A000011124,13,Transmission,Number,223,units,0,v1146069076,1.13.7,2,,,,0
+2020,Canada,2016A000011124,13,Hospitalization,Number,223,units,0,v1146069077,1.13.8,2,,,,0
+2020,Canada,2016A000011124,13,Intensive care unit,Number,223,units,0,v1146069078,1.13.9,9,,,,0
+2020,Canada,2016A000011124,13,Death,Number,223,units,0,v1146069079,1.13.10,9,,,,0
+2020,Canada,2016A000011124,13,"Hospitalization, previous status",Number,223,units,0,v1146163335,1.13.11,2,,,,0
+2020,Canada,2016A000011124,13,"Intensive care unit, previous status",Number,223,units,0,v1146163336,1.13.12,9,,,,0
+2020,Canada,2016A000011124,13,"Death, previous status",Number,223,units,0,v1146163337,1.13.13,9,,,,0
+2020,Canada,2016A000011124,14,Date case was last updated - month,Number,223,units,0,v1146069080,1.14.1,5,,,,0
+2020,Canada,2016A000011124,14,Date case was last updated - day,Number,223,units,0,v1146069081,1.14.2,11,,,,0
+2020,Canada,2016A000011124,14,Episode date - month,Number,223,units,0,v1146069082,1.14.3,4,,,,0
+2020,Canada,2016A000011124,14,Episode date - day,Number,223,units,0,v1146069083,1.14.4,17,,,,0
+2020,Canada,2016A000011124,14,Gender,Number,223,units,0,v1146069084,1.14.5,2,,,,0
+2020,Canada,2016A000011124,14,Age group,Number,223,units,0,v1146069085,1.14.6,5,,,,0
+2020,Canada,2016A000011124,14,Transmission,Number,223,units,0,v1146069086,1.14.7,2,,,,0
+2020,Canada,2016A000011124,14,Hospitalization,Number,223,units,0,v1146069087,1.14.8,1,,,,0
+2020,Canada,2016A000011124,14,Intensive care unit,Number,223,units,0,v1146069088,1.14.9,9,,,,0
+2020,Canada,2016A000011124,14,Death,Number,223,units,0,v1146069089,1.14.10,9,,,,0
+2020,Canada,2016A000011124,14,"Hospitalization, previous status",Number,223,units,0,v1146163338,1.14.11,1,,,,0
+2020,Canada,2016A000011124,14,"Intensive care unit, previous status",Number,223,units,0,v1146163339,1.14.12,9,,,,0
+2020,Canada,2016A000011124,14,"Death, previous status",Number,223,units,0,v1146163340,1.14.13,9,,,,0
+2020,Canada,2016A000011124,15,Date case was last updated - month,Number,223,units,0,v1146069090,1.15.1,5,,,,0
+2020,Canada,2016A000011124,15,Date case was last updated - day,Number,223,units,0,v1146069091,1.15.2,11,,,,0
+2020,Canada,2016A000011124,15,Episode date - month,Number,223,units,0,v1146069092,1.15.3,5,,,,0
+2020,Canada,2016A000011124,15,Episode date - day,Number,223,units,0,v1146069093,1.15.4,2,,,,0
+2020,Canada,2016A000011124,15,Gender,Number,223,units,0,v1146069094,1.15.5,1,,,,0
+2020,Canada,2016A000011124,15,Age group,Number,223,units,0,v1146069095,1.15.6,1,,,,0
+2020,Canada,2016A000011124,15,Transmission,Number,223,units,0,v1146069096,1.15.7,2,,,,0
+2020,Canada,2016A000011124,15,Hospitalization,Number,223,units,0,v1146069097,1.15.8,2,,,,0
+2020,Canada,2016A000011124,15,Intensive care unit,Number,223,units,0,v1146069098,1.15.9,9,,,,0
+2020,Canada,2016A000011124,15,Death,Number,223,units,0,v1146069099,1.15.10,9,,,,0
+2020,Canada,2016A000011124,15,"Hospitalization, previous status",Number,223,units,0,v1146163341,1.15.11,2,,,,0
+2020,Canada,2016A000011124,15,"Intensive care unit, previous status",Number,223,units,0,v1146163342,1.15.12,9,,,,0
+2020,Canada,2016A000011124,15,"Death, previous status",Number,223,units,0,v1146163343,1.15.13,9,,,,0
+2020,Canada,2016A000011124,16,Date case was last updated - month,Number,223,units,0,v1146069100,1.16.1,5,,,,0
+2020,Canada,2016A000011124,16,Date case was last updated - day,Number,223,units,0,v1146069101,1.16.2,13,,,,0
+2020,Canada,2016A000011124,16,Episode date - month,Number,223,units,0,v1146069102,1.16.3,5,,,,0
+2020,Canada,2016A000011124,16,Episode date - day,Number,223,units,0,v1146069103,1.16.4,5,,,,0
+2020,Canada,2016A000011124,16,Gender,Number,223,units,0,v1146069104,1.16.5,2,,,,0
+2020,Canada,2016A000011124,16,Age group,Number,223,units,0,v1146069105,1.16.6,1,,,,0
+2020,Canada,2016A000011124,16,Transmission,Number,223,units,0,v1146069106,1.16.7,2,,,,0
+2020,Canada,2016A000011124,16,Hospitalization,Number,223,units,0,v1146069107,1.16.8,2,,,,0
+2020,Canada,2016A000011124,16,Intensive care unit,Number,223,units,0,v1146069108,1.16.9,9,,,,0
+2020,Canada,2016A000011124,16,Death,Number,223,units,0,v1146069109,1.16.10,9,,,,0
+2020,Canada,2016A000011124,16,"Hospitalization, previous status",Number,223,units,0,v1146163344,1.16.11,2,,,,0
+2020,Canada,2016A000011124,16,"Intensive care unit, previous status",Number,223,units,0,v1146163345,1.16.12,9,,,,0
+2020,Canada,2016A000011124,16,"Death, previous status",Number,223,units,0,v1146163346,1.16.13,9,,,,0
+2020,Canada,2016A000011124,17,Date case was last updated - month,Number,223,units,0,v1146069110,1.17.1,5,,,,0
+2020,Canada,2016A000011124,17,Date case was last updated - day,Number,223,units,0,v1146069111,1.17.2,11,,,,0
+2020,Canada,2016A000011124,17,Episode date - month,Number,223,units,0,v1146069112,1.17.3,4,,,,0
+2020,Canada,2016A000011124,17,Episode date - day,Number,223,units,0,v1146069113,1.17.4,23,,,,0
+2020,Canada,2016A000011124,17,Gender,Number,223,units,0,v1146069114,1.17.5,2,,,,0
+2020,Canada,2016A000011124,17,Age group,Number,223,units,0,v1146069115,1.17.6,2,,,,0
+2020,Canada,2016A000011124,17,Transmission,Number,223,units,0,v1146069116,1.17.7,2,,,,0
+2020,Canada,2016A000011124,17,Hospitalization,Number,223,units,0,v1146069117,1.17.8,2,,,,0
+2020,Canada,2016A000011124,17,Intensive care unit,Number,223,units,0,v1146069118,1.17.9,9,,,,0
+2020,Canada,2016A000011124,17,Death,Number,223,units,0,v1146069119,1.17.10,9,,,,0
+2020,Canada,2016A000011124,17,"Hospitalization, previous status",Number,223,units,0,v1146163347,1.17.11,2,,,,0
+2020,Canada,2016A000011124,17,"Intensive care unit, previous status",Number,223,units,0,v1146163348,1.17.12,9,,,,0
+2020,Canada,2016A000011124,17,"Death, previous status",Number,223,units,0,v1146163349,1.17.13,9,,,,0
+2020,Canada,2016A000011124,18,Date case was last updated - month,Number,223,units,0,v1146069120,1.18.1,5,,,,0
+2020,Canada,2016A000011124,18,Date case was last updated - day,Number,223,units,0,v1146069121,1.18.2,11,,,,0
+2020,Canada,2016A000011124,18,Episode date - month,Number,223,units,0,v1146069122,1.18.3,4,,,,0
+2020,Canada,2016A000011124,18,Episode date - day,Number,223,units,0,v1146069123,1.18.4,28,,,,0
+2020,Canada,2016A000011124,18,Gender,Number,223,units,0,v1146069124,1.18.5,2,,,,0
+2020,Canada,2016A000011124,18,Age group,Number,223,units,0,v1146069125,1.18.6,2,,,,0
+2020,Canada,2016A000011124,18,Transmission,Number,223,units,0,v1146069126,1.18.7,2,,,,0
+2020,Canada,2016A000011124,18,Hospitalization,Number,223,units,0,v1146069127,1.18.8,2,,,,0
+2020,Canada,2016A000011124,18,Intensive care unit,Number,223,units,0,v1146069128,1.18.9,9,,,,0
+2020,Canada,2016A000011124,18,Death,Number,223,units,0,v1146069129,1.18.10,9,,,,0
+2020,Canada,2016A000011124,18,"Hospitalization, previous status",Number,223,units,0,v1146163350,1.18.11,2,,,,0
+2020,Canada,2016A000011124,18,"Intensive care unit, previous status",Number,223,units,0,v1146163351,1.18.12,9,,,,0
+2020,Canada,2016A000011124,18,"Death, previous status",Number,223,units,0,v1146163352,1.18.13,9,,,,0
+2020,Canada,2016A000011124,19,Date case was last updated - month,Number,223,units,0,v1146069130,1.19.1,5,,,,0
+2020,Canada,2016A000011124,19,Date case was last updated - day,Number,223,units,0,v1146069131,1.19.2,11,,,,0
+2020,Canada,2016A000011124,19,Episode date - month,Number,223,units,0,v1146069132,1.19.3,4,,,,0
+2020,Canada,2016A000011124,19,Episode date - day,Number,223,units,0,v1146069133,1.19.4,25,,,,0
+2020,Canada,2016A000011124,19,Gender,Number,223,units,0,v1146069134,1.19.5,2,,,,0
+2020,Canada,2016A000011124,19,Age group,Number,223,units,0,v1146069135,1.19.6,4,,,,0
+2020,Canada,2016A000011124,19,Transmission,Number,223,units,0,v1146069136,1.19.7,2,,,,0
+2020,Canada,2016A000011124,19,Hospitalization,Number,223,units,0,v1146069137,1.19.8,2,,,,0
+2020,Canada,2016A000011124,19,Intensive care unit,Number,223,units,0,v1146069138,1.19.9,9,,,,0
+2020,Canada,2016A000011124,19,Death,Number,223,units,0,v1146069139,1.19.10,9,,,,0
+2020,Canada,2016A000011124,19,"Hospitalization, previous status",Number,223,units,0,v1146163353,1.19.11,2,,,,0
+2020,Canada,2016A000011124,19,"Intensive care unit, previous status",Number,223,units,0,v1146163354,1.19.12,9,,,,0
+2020,Canada,2016A000011124,19,"Death, previous status",Number,223,units,0,v1146163355,1.19.13,9,,,,0
+2020,Canada,2016A000011124,20,Date case was last updated - month,Number,223,units,0,v1146069140,1.20.1,5,,,,0
+2020,Canada,2016A000011124,20,Date case was last updated - day,Number,223,units,0,v1146069141,1.20.2,13,,,,0
+2020,Canada,2016A000011124,20,Episode date - month,Number,223,units,0,v1146069142,1.20.3,5,,,,0
+2020,Canada,2016A000011124,20,Episode date - day,Number,223,units,0,v1146069143,1.20.4,6,,,,0
+2020,Canada,2016A000011124,20,Gender,Number,223,units,0,v1146069144,1.20.5,2,,,,0
+2020,Canada,2016A000011124,20,Age group,Number,223,units,0,v1146069145,1.20.6,5,,,,0
+2020,Canada,2016A000011124,20,Transmission,Number,223,units,0,v1146069146,1.20.7,2,,,,0
+2020,Canada,2016A000011124,20,Hospitalization,Number,223,units,0,v1146069147,1.20.8,2,,,,0
+2020,Canada,2016A000011124,20,Intensive care unit,Number,223,units,0,v1146069148,1.20.9,9,,,,0
+2020,Canada,2016A000011124,20,Death,Number,223,units,0,v1146069149,1.20.10,9,,,,0
+2020,Canada,2016A000011124,20,"Hospitalization, previous status",Number,223,units,0,v1146163356,1.20.11,2,,,,0
+2020,Canada,2016A000011124,20,"Intensive care unit, previous status",Number,223,units,0,v1146163357,1.20.12,9,,,,0
+2020,Canada,2016A000011124,20,"Death, previous status",Number,223,units,0,v1146163358,1.20.13,9,,,,0
+2020,Canada,2016A000011124,21,Date case was last updated - month,Number,223,units,0,v1146069150,1.21.1,5,,,,0
+2020,Canada,2016A000011124,21,Date case was last updated - day,Number,223,units,0,v1146069151,1.21.2,11,,,,0
+2020,Canada,2016A000011124,21,Episode date - month,Number,223,units,0,v1146069152,1.21.3,4,,,,0
+2020,Canada,2016A000011124,21,Episode date - day,Number,223,units,0,v1146069153,1.21.4,26,,,,0
+2020,Canada,2016A000011124,21,Gender,Number,223,units,0,v1146069154,1.21.5,1,,,,0
+2020,Canada,2016A000011124,21,Age group,Number,223,units,0,v1146069155,1.21.6,3,,,,0
+2020,Canada,2016A000011124,21,Transmission,Number,223,units,0,v1146069156,1.21.7,2,,,,0
+2020,Canada,2016A000011124,21,Hospitalization,Number,223,units,0,v1146069157,1.21.8,2,,,,0
+2020,Canada,2016A000011124,21,Intensive care unit,Number,223,units,0,v1146069158,1.21.9,9,,,,0
+2020,Canada,2016A000011124,21,Death,Number,223,units,0,v1146069159,1.21.10,9,,,,0
+2020,Canada,2016A000011124,21,"Hospitalization, previous status",Number,223,units,0,v1146163359,1.21.11,2,,,,0
+2020,Canada,2016A000011124,21,"Intensive care unit, previous status",Number,223,units,0,v1146163360,1.21.12,9,,,,0
+2020,Canada,2016A000011124,21,"Death, previous status",Number,223,units,0,v1146163361,1.21.13,9,,,,0
+2020,Canada,2016A000011124,22,Date case was last updated - month,Number,223,units,0,v1146069160,1.22.1,5,,,,0
+2020,Canada,2016A000011124,22,Date case was last updated - day,Number,223,units,0,v1146069161,1.22.2,13,,,,0
+2020,Canada,2016A000011124,22,Episode date - month,Number,223,units,0,v1146069162,1.22.3,4,,,,0
+2020,Canada,2016A000011124,22,Episode date - day,Number,223,units,0,v1146069163,1.22.4,30,,,,0
+2020,Canada,2016A000011124,22,Gender,Number,223,units,0,v1146069164,1.22.5,2,,,,0
+2020,Canada,2016A000011124,22,Age group,Number,223,units,0,v1146069165,1.22.6,1,,,,0
+2020,Canada,2016A000011124,22,Transmission,Number,223,units,0,v1146069166,1.22.7,2,,,,0
+2020,Canada,2016A000011124,22,Hospitalization,Number,223,units,0,v1146069167,1.22.8,2,,,,0
+2020,Canada,2016A000011124,22,Intensive care unit,Number,223,units,0,v1146069168,1.22.9,9,,,,0
+2020,Canada,2016A000011124,22,Death,Number,223,units,0,v1146069169,1.22.10,9,,,,0
+2020,Canada,2016A000011124,22,"Hospitalization, previous status",Number,223,units,0,v1146163362,1.22.11,2,,,,0
+2020,Canada,2016A000011124,22,"Intensive care unit, previous status",Number,223,units,0,v1146163363,1.22.12,9,,,,0
+2020,Canada,2016A000011124,22,"Death, previous status",Number,223,units,0,v1146163364,1.22.13,9,,,,0
+2020,Canada,2016A000011124,23,Date case was last updated - month,Number,223,units,0,v1146069170,1.23.1,5,,,,0
+2020,Canada,2016A000011124,23,Date case was last updated - day,Number,223,units,0,v1146069171,1.23.2,11,,,,0
+2020,Canada,2016A000011124,23,Episode date - month,Number,223,units,0,v1146069172,1.23.3,4,,,,0
+2020,Canada,2016A000011124,23,Episode date - day,Number,223,units,0,v1146069173,1.23.4,15,,,,0
+2020,Canada,2016A000011124,23,Gender,Number,223,units,0,v1146069174,1.23.5,2,,,,0
+2020,Canada,2016A000011124,23,Age group,Number,223,units,0,v1146069175,1.23.6,4,,,,0
+2020,Canada,2016A000011124,23,Transmission,Number,223,units,0,v1146069176,1.23.7,2,,,,0
+2020,Canada,2016A000011124,23,Hospitalization,Number,223,units,0,v1146069177,1.23.8,2,,,,0
+2020,Canada,2016A000011124,23,Intensive care unit,Number,223,units,0,v1146069178,1.23.9,9,,,,0
+2020,Canada,2016A000011124,23,Death,Number,223,units,0,v1146069179,1.23.10,9,,,,0
+2020,Canada,2016A000011124,23,"Hospitalization, previous status",Number,223,units,0,v1146163365,1.23.11,2,,,,0
+2020,Canada,2016A000011124,23,"Intensive care unit, previous status",Number,223,units,0,v1146163366,1.23.12,9,,,,0
+2020,Canada,2016A000011124,23,"Death, previous status",Number,223,units,0,v1146163367,1.23.13,9,,,,0
+2020,Canada,2016A000011124,24,Date case was last updated - month,Number,223,units,0,v1146069180,1.24.1,5,,,,0
+2020,Canada,2016A000011124,24,Date case was last updated - day,Number,223,units,0,v1146069181,1.24.2,11,,,,0
+2020,Canada,2016A000011124,24,Episode date - month,Number,223,units,0,v1146069182,1.24.3,4,,,,0
+2020,Canada,2016A000011124,24,Episode date - day,Number,223,units,0,v1146069183,1.24.4,30,,,,0
+2020,Canada,2016A000011124,24,Gender,Number,223,units,0,v1146069184,1.24.5,2,,,,0
+2020,Canada,2016A000011124,24,Age group,Number,223,units,0,v1146069185,1.24.6,6,,,,0
+2020,Canada,2016A000011124,24,Transmission,Number,223,units,0,v1146069186,1.24.7,2,,,,0
+2020,Canada,2016A000011124,24,Hospitalization,Number,223,units,0,v1146069187,1.24.8,2,,,,0
+2020,Canada,2016A000011124,24,Intensive care unit,Number,223,units,0,v1146069188,1.24.9,9,,,,0
+2020,Canada,2016A000011124,24,Death,Number,223,units,0,v1146069189,1.24.10,9,,,,0
+2020,Canada,2016A000011124,24,"Hospitalization, previous status",Number,223,units,0,v1146163368,1.24.11,2,,,,0
+2020,Canada,2016A000011124,24,"Intensive care unit, previous status",Number,223,units,0,v1146163369,1.24.12,9,,,,0
+2020,Canada,2016A000011124,24,"Death, previous status",Number,223,units,0,v1146163370,1.24.13,9,,,,0
+2020,Canada,2016A000011124,25,Date case was last updated - month,Number,223,units,0,v1146069190,1.25.1,5,,,,0
+2020,Canada,2016A000011124,25,Date case was last updated - day,Number,223,units,0,v1146069191,1.25.2,13,,,,0
+2020,Canada,2016A000011124,25,Episode date - month,Number,223,units,0,v1146069192,1.25.3,4,,,,0
+2020,Canada,2016A000011124,25,Episode date - day,Number,223,units,0,v1146069193,1.25.4,30,,,,0
+2020,Canada,2016A000011124,25,Gender,Number,223,units,0,v1146069194,1.25.5,2,,,,0
+2020,Canada,2016A000011124,25,Age group,Number,223,units,0,v1146069195,1.25.6,3,,,,0
+2020,Canada,2016A000011124,25,Transmission,Number,223,units,0,v1146069196,1.25.7,2,,,,0
+2020,Canada,2016A000011124,25,Hospitalization,Number,223,units,0,v1146069197,1.25.8,2,,,,0
+2020,Canada,2016A000011124,25,Intensive care unit,Number,223,units,0,v1146069198,1.25.9,9,,,,0
+2020,Canada,2016A000011124,25,Death,Number,223,units,0,v1146069199,1.25.10,9,,,,0
+2020,Canada,2016A000011124,25,"Hospitalization, previous status",Number,223,units,0,v1146163371,1.25.11,2,,,,0
+2020,Canada,2016A000011124,25,"Intensive care unit, previous status",Number,223,units,0,v1146163372,1.25.12,9,,,,0
+2020,Canada,2016A000011124,25,"Death, previous status",Number,223,units,0,v1146163373,1.25.13,9,,,,0
+2020,Canada,2016A000011124,26,Date case was last updated - month,Number,223,units,0,v1146069200,1.26.1,5,,,,0
+2020,Canada,2016A000011124,26,Date case was last updated - day,Number,223,units,0,v1146069201,1.26.2,13,,,,0
+2020,Canada,2016A000011124,26,Episode date - month,Number,223,units,0,v1146069202,1.26.3,5,,,,0
+2020,Canada,2016A000011124,26,Episode date - day,Number,223,units,0,v1146069203,1.26.4,1,,,,0
+2020,Canada,2016A000011124,26,Gender,Number,223,units,0,v1146069204,1.26.5,2,,,,0
+2020,Canada,2016A000011124,26,Age group,Number,223,units,0,v1146069205,1.26.6,5,,,,0
+2020,Canada,2016A000011124,26,Transmission,Number,223,units,0,v1146069206,1.26.7,2,,,,0
+2020,Canada,2016A000011124,26,Hospitalization,Number,223,units,0,v1146069207,1.26.8,2,,,,0
+2020,Canada,2016A000011124,26,Intensive care unit,Number,223,units,0,v1146069208,1.26.9,9,,,,0
+2020,Canada,2016A000011124,26,Death,Number,223,units,0,v1146069209,1.26.10,9,,,,0
+2020,Canada,2016A000011124,26,"Hospitalization, previous status",Number,223,units,0,v1146163374,1.26.11,2,,,,0
+2020,Canada,2016A000011124,26,"Intensive care unit, previous status",Number,223,units,0,v1146163375,1.26.12,9,,,,0
+2020,Canada,2016A000011124,26,"Death, previous status",Number,223,units,0,v1146163376,1.26.13,9,,,,0
+2020,Canada,2016A000011124,27,Date case was last updated - month,Number,223,units,0,v1146069210,1.27.1,5,,,,0
+2020,Canada,2016A000011124,27,Date case was last updated - day,Number,223,units,0,v1146069211,1.27.2,11,,,,0
+2020,Canada,2016A000011124,27,Episode date - month,Number,223,units,0,v1146069212,1.27.3,4,,,,0
+2020,Canada,2016A000011124,27,Episode date - day,Number,223,units,0,v1146069213,1.27.4,24,,,,0
+2020,Canada,2016A000011124,27,Gender,Number,223,units,0,v1146069214,1.27.5,1,,,,0
+2020,Canada,2016A000011124,27,Age group,Number,223,units,0,v1146069215,1.27.6,2,,,,0
+2020,Canada,2016A000011124,27,Transmission,Number,223,units,0,v1146069216,1.27.7,2,,,,0
+2020,Canada,2016A000011124,27,Hospitalization,Number,223,units,0,v1146069217,1.27.8,2,,,,0
+2020,Canada,2016A000011124,27,Intensive care unit,Number,223,units,0,v1146069218,1.27.9,9,,,,0
+2020,Canada,2016A000011124,27,Death,Number,223,units,0,v1146069219,1.27.10,9,,,,0
+2020,Canada,2016A000011124,27,"Hospitalization, previous status",Number,223,units,0,v1146163377,1.27.11,2,,,,0
+2020,Canada,2016A000011124,27,"Intensive care unit, previous status",Number,223,units,0,v1146163378,1.27.12,9,,,,0
+2020,Canada,2016A000011124,27,"Death, previous status",Number,223,units,0,v1146163379,1.27.13,9,,,,0
+2020,Canada,2016A000011124,28,Date case was last updated - month,Number,223,units,0,v1146069220,1.28.1,5,,,,0
+2020,Canada,2016A000011124,28,Date case was last updated - day,Number,223,units,0,v1146069221,1.28.2,13,,,,0
+2020,Canada,2016A000011124,28,Episode date - month,Number,223,units,0,v1146069222,1.28.3,4,,,,0
+2020,Canada,2016A000011124,28,Episode date - day,Number,223,units,0,v1146069223,1.28.4,4,,,,0
+2020,Canada,2016A000011124,28,Gender,Number,223,units,0,v1146069224,1.28.5,1,,,,0
+2020,Canada,2016A000011124,28,Age group,Number,223,units,0,v1146069225,1.28.6,6,,,,0
+2020,Canada,2016A000011124,28,Transmission,Number,223,units,0,v1146069226,1.28.7,2,,,,0
+2020,Canada,2016A000011124,28,Hospitalization,Number,223,units,0,v1146069227,1.28.8,2,,,,0
+2020,Canada,2016A000011124,28,Intensive care unit,Number,223,units,0,v1146069228,1.28.9,9,,,,0
+2020,Canada,2016A000011124,28,Death,Number,223,units,0,v1146069229,1.28.10,9,,,,0
+2020,Canada,2016A000011124,28,"Hospitalization, previous status",Number,223,units,0,v1146163380,1.28.11,2,,,,0
+2020,Canada,2016A000011124,28,"Intensive care unit, previous status",Number,223,units,0,v1146163381,1.28.12,9,,,,0
+2020,Canada,2016A000011124,28,"Death, previous status",Number,223,units,0,v1146163382,1.28.13,9,,,,0
+2020,Canada,2016A000011124,29,Date case was last updated - month,Number,223,units,0,v1146069230,1.29.1,5,,,,0
+2020,Canada,2016A000011124,29,Date case was last updated - day,Number,223,units,0,v1146069231,1.29.2,11,,,,0
+2020,Canada,2016A000011124,29,Episode date - month,Number,223,units,0,v1146069232,1.29.3,4,,,,0
+2020,Canada,2016A000011124,29,Episode date - day,Number,223,units,0,v1146069233,1.29.4,14,,,,0
+2020,Canada,2016A000011124,29,Gender,Number,223,units,0,v1146069234,1.29.5,2,,,,0
+2020,Canada,2016A000011124,29,Age group,Number,223,units,0,v1146069235,1.29.6,4,,,,0
+2020,Canada,2016A000011124,29,Transmission,Number,223,units,0,v1146069236,1.29.7,2,,,,0
+2020,Canada,2016A000011124,29,Hospitalization,Number,223,units,0,v1146069237,1.29.8,9,,,,0
+2020,Canada,2016A000011124,29,Intensive care unit,Number,223,units,0,v1146069238,1.29.9,9,,,,0
+2020,Canada,2016A000011124,29,Death,Number,223,units,0,v1146069239,1.29.10,9,,,,0
+2020,Canada,2016A000011124,29,"Hospitalization, previous status",Number,223,units,0,v1146163383,1.29.11,9,,,,0
+2020,Canada,2016A000011124,29,"Intensive care unit, previous status",Number,223,units,0,v1146163384,1.29.12,9,,,,0
+2020,Canada,2016A000011124,29,"Death, previous status",Number,223,units,0,v1146163385,1.29.13,9,,,,0
+2020,Canada,2016A000011124,30,Date case was last updated - month,Number,223,units,0,v1146069240,1.30.1,5,,,,0
+2020,Canada,2016A000011124,30,Date case was last updated - day,Number,223,units,0,v1146069241,1.30.2,13,,,,0
+2020,Canada,2016A000011124,30,Episode date - month,Number,223,units,0,v1146069242,1.30.3,5,,,,0
+2020,Canada,2016A000011124,30,Episode date - day,Number,223,units,0,v1146069243,1.30.4,5,,,,0
+2020,Canada,2016A000011124,30,Gender,Number,223,units,0,v1146069244,1.30.5,1,,,,0
+2020,Canada,2016A000011124,30,Age group,Number,223,units,0,v1146069245,1.30.6,3,,,,0
+2020,Canada,2016A000011124,30,Transmission,Number,223,units,0,v1146069246,1.30.7,2,,,,0
+2020,Canada,2016A000011124,30,Hospitalization,Number,223,units,0,v1146069247,1.30.8,2,,,,0
+2020,Canada,2016A000011124,30,Intensive care unit,Number,223,units,0,v1146069248,1.30.9,9,,,,0
+2020,Canada,2016A000011124,30,Death,Number,223,units,0,v1146069249,1.30.10,9,,,,0
+2020,Canada,2016A000011124,30,"Hospitalization, previous status",Number,223,units,0,v1146163386,1.30.11,2,,,,0
+2020,Canada,2016A000011124,30,"Intensive care unit, previous status",Number,223,units,0,v1146163387,1.30.12,9,,,,0
+2020,Canada,2016A000011124,30,"Death, previous status",Number,223,units,0,v1146163388,1.30.13,9,,,,0
+2020,Canada,2016A000011124,31,Date case was last updated - month,Number,223,units,0,v1146069250,1.31.1,5,,,,0
+2020,Canada,2016A000011124,31,Date case was last updated - day,Number,223,units,0,v1146069251,1.31.2,11,,,,0
+2020,Canada,2016A000011124,31,Episode date - month,Number,223,units,0,v1146069252,1.31.3,4,,,,0
+2020,Canada,2016A000011124,31,Episode date - day,Number,223,units,0,v1146069253,1.31.4,14,,,,0
+2020,Canada,2016A000011124,31,Gender,Number,223,units,0,v1146069254,1.31.5,2,,,,0
+2020,Canada,2016A000011124,31,Age group,Number,223,units,0,v1146069255,1.31.6,2,,,,0
+2020,Canada,2016A000011124,31,Transmission,Number,223,units,0,v1146069256,1.31.7,2,,,,0
+2020,Canada,2016A000011124,31,Hospitalization,Number,223,units,0,v1146069257,1.31.8,2,,,,0
+2020,Canada,2016A000011124,31,Intensive care unit,Number,223,units,0,v1146069258,1.31.9,9,,,,0
+2020,Canada,2016A000011124,31,Death,Number,223,units,0,v1146069259,1.31.10,9,,,,0
+2020,Canada,2016A000011124,31,"Hospitalization, previous status",Number,223,units,0,v1146163389,1.31.11,2,,,,0
+2020,Canada,2016A000011124,31,"Intensive care unit, previous status",Number,223,units,0,v1146163390,1.31.12,9,,,,0
+2020,Canada,2016A000011124,31,"Death, previous status",Number,223,units,0,v1146163391,1.31.13,9,,,,0
+2020,Canada,2016A000011124,32,Date case was last updated - month,Number,223,units,0,v1146069260,1.32.1,5,,,,0
+2020,Canada,2016A000011124,32,Date case was last updated - day,Number,223,units,0,v1146069261,1.32.2,11,,,,0
+2020,Canada,2016A000011124,32,Episode date - month,Number,223,units,0,v1146069262,1.32.3,5,,,,0
+2020,Canada,2016A000011124,32,Episode date - day,Number,223,units,0,v1146069263,1.32.4,3,,,,0
+2020,Canada,2016A000011124,32,Gender,Number,223,units,0,v1146069264,1.32.5,2,,,,0
+2020,Canada,2016A000011124,32,Age group,Number,223,units,0,v1146069265,1.32.6,2,,,,0
+2020,Canada,2016A000011124,32,Transmission,Number,223,units,0,v1146069266,1.32.7,2,,,,0
+2020,Canada,2016A000011124,32,Hospitalization,Number,223,units,0,v1146069267,1.32.8,2,,,,0
+2020,Canada,2016A000011124,32,Intensive care unit,Number,223,units,0,v1146069268,1.32.9,9,,,,0
+2020,Canada,2016A000011124,32,Death,Number,223,units,0,v1146069269,1.32.10,9,,,,0
+2020,Canada,2016A000011124,32,"Hospitalization, previous status",Number,223,units,0,v1146163392,1.32.11,2,,,,0
+2020,Canada,2016A000011124,32,"Intensive care unit, previous status",Number,223,units,0,v1146163393,1.32.12,9,,,,0
+2020,Canada,2016A000011124,32,"Death, previous status",Number,223,units,0,v1146163394,1.32.13,9,,,,0
+2020,Canada,2016A000011124,33,Date case was last updated - month,Number,223,units,0,v1146069270,1.33.1,5,,,,0
+2020,Canada,2016A000011124,33,Date case was last updated - day,Number,223,units,0,v1146069271,1.33.2,13,,,,0
+2020,Canada,2016A000011124,33,Episode date - month,Number,223,units,0,v1146069272,1.33.3,5,,,,0
+2020,Canada,2016A000011124,33,Episode date - day,Number,223,units,0,v1146069273,1.33.4,4,,,,0
+2020,Canada,2016A000011124,33,Gender,Number,223,units,0,v1146069274,1.33.5,1,,,,0
+2020,Canada,2016A000011124,33,Age group,Number,223,units,0,v1146069275,1.33.6,5,,,,0
+2020,Canada,2016A000011124,33,Transmission,Number,223,units,0,v1146069276,1.33.7,2,,,,0
+2020,Canada,2016A000011124,33,Hospitalization,Number,223,units,0,v1146069277,1.33.8,2,,,,0
+2020,Canada,2016A000011124,33,Intensive care unit,Number,223,units,0,v1146069278,1.33.9,9,,,,0
+2020,Canada,2016A000011124,33,Death,Number,223,units,0,v1146069279,1.33.10,9,,,,0
+2020,Canada,2016A000011124,33,"Hospitalization, previous status",Number,223,units,0,v1146163395,1.33.11,2,,,,0
+2020,Canada,2016A000011124,33,"Intensive care unit, previous status",Number,223,units,0,v1146163396,1.33.12,9,,,,0
+2020,Canada,2016A000011124,33,"Death, previous status",Number,223,units,0,v1146163397,1.33.13,9,,,,0
+2020,Canada,2016A000011124,34,Date case was last updated - month,Number,223,units,0,v1146069280,1.34.1,5,,,,0
+2020,Canada,2016A000011124,34,Date case was last updated - day,Number,223,units,0,v1146069281,1.34.2,11,,,,0
+2020,Canada,2016A000011124,34,Episode date - month,Number,223,units,0,v1146069282,1.34.3,5,,,,0
+2020,Canada,2016A000011124,34,Episode date - day,Number,223,units,0,v1146069283,1.34.4,1,,,,0
+2020,Canada,2016A000011124,34,Gender,Number,223,units,0,v1146069284,1.34.5,2,,,,0
+2020,Canada,2016A000011124,34,Age group,Number,223,units,0,v1146069285,1.34.6,1,,,,0
+2020,Canada,2016A000011124,34,Transmission,Number,223,units,0,v1146069286,1.34.7,2,,,,0
+2020,Canada,2016A000011124,34,Hospitalization,Number,223,units,0,v1146069287,1.34.8,2,,,,0
+2020,Canada,2016A000011124,34,Intensive care unit,Number,223,units,0,v1146069288,1.34.9,9,,,,0
+2020,Canada,2016A000011124,34,Death,Number,223,units,0,v1146069289,1.34.10,9,,,,0
+2020,Canada,2016A000011124,34,"Hospitalization, previous status",Number,223,units,0,v1146163398,1.34.11,2,,,,0
+2020,Canada,2016A000011124,34,"Intensive care unit, previous status",Number,223,units,0,v1146163399,1.34.12,9,,,,0
+2020,Canada,2016A000011124,34,"Death, previous status",Number,223,units,0,v1146163400,1.34.13,9,,,,0
+2020,Canada,2016A000011124,35,Date case was last updated - month,Number,223,units,0,v1146069290,1.35.1,5,,,,0
+2020,Canada,2016A000011124,35,Date case was last updated - day,Number,223,units,0,v1146069291,1.35.2,11,,,,0
+2020,Canada,2016A000011124,35,Episode date - month,Number,223,units,0,v1146069292,1.35.3,4,,,,0
+2020,Canada,2016A000011124,35,Episode date - day,Number,223,units,0,v1146069293,1.35.4,28,,,,0
+2020,Canada,2016A000011124,35,Gender,Number,223,units,0,v1146069294,1.35.5,2,,,,0
+2020,Canada,2016A000011124,35,Age group,Number,223,units,0,v1146069295,1.35.6,4,,,,0
+2020,Canada,2016A000011124,35,Transmission,Number,223,units,0,v1146069296,1.35.7,2,,,,0
+2020,Canada,2016A000011124,35,Hospitalization,Number,223,units,0,v1146069297,1.35.8,9,,,,0
+2020,Canada,2016A000011124,35,Intensive care unit,Number,223,units,0,v1146069298,1.35.9,9,,,,0
+2020,Canada,2016A000011124,35,Death,Number,223,units,0,v1146069299,1.35.10,9,,,,0
+2020,Canada,2016A000011124,35,"Hospitalization, previous status",Number,223,units,0,v1146163401,1.35.11,9,,,,0
+2020,Canada,2016A000011124,35,"Intensive care unit, previous status",Number,223,units,0,v1146163402,1.35.12,9,,,,0
+2020,Canada,2016A000011124,35,"Death, previous status",Number,223,units,0,v1146163403,1.35.13,9,,,,0
+2020,Canada,2016A000011124,36,Date case was last updated - month,Number,223,units,0,v1146069300,1.36.1,5,,,,0
+2020,Canada,2016A000011124,36,Date case was last updated - day,Number,223,units,0,v1146069301,1.36.2,11,,,,0
+2020,Canada,2016A000011124,36,Episode date - month,Number,223,units,0,v1146069302,1.36.3,4,,,,0
+2020,Canada,2016A000011124,36,Episode date - day,Number,223,units,0,v1146069303,1.36.4,26,,,,0
+2020,Canada,2016A000011124,36,Gender,Number,223,units,0,v1146069304,1.36.5,2,,,,0
+2020,Canada,2016A000011124,36,Age group,Number,223,units,0,v1146069305,1.36.6,2,,,,0
+2020,Canada,2016A000011124,36,Transmission,Number,223,units,0,v1146069306,1.36.7,2,,,,0
+2020,Canada,2016A000011124,36,Hospitalization,Number,223,units,0,v1146069307,1.36.8,9,,,,0
+2020,Canada,2016A000011124,36,Intensive care unit,Number,223,units,0,v1146069308,1.36.9,9,,,,0
+2020,Canada,2016A000011124,36,Death,Number,223,units,0,v1146069309,1.36.10,9,,,,0
+2020,Canada,2016A000011124,36,"Hospitalization, previous status",Number,223,units,0,v1146163404,1.36.11,9,,,,0
+2020,Canada,2016A000011124,36,"Intensive care unit, previous status",Number,223,units,0,v1146163405,1.36.12,9,,,,0
+2020,Canada,2016A000011124,36,"Death, previous status",Number,223,units,0,v1146163406,1.36.13,9,,,,0
+2020,Canada,2016A000011124,37,Date case was last updated - month,Number,223,units,0,v1146069310,1.37.1,5,,,,0
+2020,Canada,2016A000011124,37,Date case was last updated - day,Number,223,units,0,v1146069311,1.37.2,11,,,,0
+2020,Canada,2016A000011124,37,Episode date - month,Number,223,units,0,v1146069312,1.37.3,4,,,,0
+2020,Canada,2016A000011124,37,Episode date - day,Number,223,units,0,v1146069313,1.37.4,20,,,,0
+2020,Canada,2016A000011124,37,Gender,Number,223,units,0,v1146069314,1.37.5,1,,,,0
+2020,Canada,2016A000011124,37,Age group,Number,223,units,0,v1146069315,1.37.6,3,,,,0
+2020,Canada,2016A000011124,37,Transmission,Number,223,units,0,v1146069316,1.37.7,2,,,,0
+2020,Canada,2016A000011124,37,Hospitalization,Number,223,units,0,v1146069317,1.37.8,2,,,,0
+2020,Canada,2016A000011124,37,Intensive care unit,Number,223,units,0,v1146069318,1.37.9,9,,,,0
+2020,Canada,2016A000011124,37,Death,Number,223,units,0,v1146069319,1.37.10,9,,,,0
+2020,Canada,2016A000011124,37,"Hospitalization, previous status",Number,223,units,0,v1146163407,1.37.11,2,,,,0
+2020,Canada,2016A000011124,37,"Intensive care unit, previous status",Number,223,units,0,v1146163408,1.37.12,9,,,,0
+2020,Canada,2016A000011124,37,"Death, previous status",Number,223,units,0,v1146163409,1.37.13,9,,,,0
+2020,Canada,2016A000011124,38,Date case was last updated - month,Number,223,units,0,v1146069320,1.38.1,5,,,,0
+2020,Canada,2016A000011124,38,Date case was last updated - day,Number,223,units,0,v1146069321,1.38.2,11,,,,0
+2020,Canada,2016A000011124,38,Episode date - month,Number,223,units,0,v1146069322,1.38.3,4,,,,0
+2020,Canada,2016A000011124,38,Episode date - day,Number,223,units,0,v1146069323,1.38.4,29,,,,0
+2020,Canada,2016A000011124,38,Gender,Number,223,units,0,v1146069324,1.38.5,2,,,,0
+2020,Canada,2016A000011124,38,Age group,Number,223,units,0,v1146069325,1.38.6,6,,,,0
+2020,Canada,2016A000011124,38,Transmission,Number,223,units,0,v1146069326,1.38.7,2,,,,0
+2020,Canada,2016A000011124,38,Hospitalization,Number,223,units,0,v1146069327,1.38.8,9,,,,0
+2020,Canada,2016A000011124,38,Intensive care unit,Number,223,units,0,v1146069328,1.38.9,9,,,,0
+2020,Canada,2016A000011124,38,Death,Number,223,units,0,v1146069329,1.38.10,9,,,,0
+2020,Canada,2016A000011124,38,"Hospitalization, previous status",Number,223,units,0,v1146163410,1.38.11,9,,,,0
+2020,Canada,2016A000011124,38,"Intensive care unit, previous status",Number,223,units,0,v1146163411,1.38.12,9,,,,0
+2020,Canada,2016A000011124,38,"Death, previous status",Number,223,units,0,v1146163412,1.38.13,9,,,,0
+2020,Canada,2016A000011124,39,Date case was last updated - month,Number,223,units,0,v1146069330,1.39.1,5,,,,0
+2020,Canada,2016A000011124,39,Date case was last updated - day,Number,223,units,0,v1146069331,1.39.2,11,,,,0
+2020,Canada,2016A000011124,39,Episode date - month,Number,223,units,0,v1146069332,1.39.3,4,,,,0
+2020,Canada,2016A000011124,39,Episode date - day,Number,223,units,0,v1146069333,1.39.4,9,,,,0
+2020,Canada,2016A000011124,39,Gender,Number,223,units,0,v1146069334,1.39.5,2,,,,0
+2020,Canada,2016A000011124,39,Age group,Number,223,units,0,v1146069335,1.39.6,6,,,,0
+2020,Canada,2016A000011124,39,Transmission,Number,223,units,0,v1146069336,1.39.7,2,,,,0
+2020,Canada,2016A000011124,39,Hospitalization,Number,223,units,0,v1146069337,1.39.8,2,,,,0
+2020,Canada,2016A000011124,39,Intensive care unit,Number,223,units,0,v1146069338,1.39.9,9,,,,0
+2020,Canada,2016A000011124,39,Death,Number,223,units,0,v1146069339,1.39.10,9,,,,0
+2020,Canada,2016A000011124,39,"Hospitalization, previous status",Number,223,units,0,v1146163413,1.39.11,2,,,,0
+2020,Canada,2016A000011124,39,"Intensive care unit, previous status",Number,223,units,0,v1146163414,1.39.12,9,,,,0
+2020,Canada,2016A000011124,39,"Death, previous status",Number,223,units,0,v1146163415,1.39.13,9,,,,0
+2020,Canada,2016A000011124,40,Date case was last updated - month,Number,223,units,0,v1146069340,1.40.1,5,,,,0
+2020,Canada,2016A000011124,40,Date case was last updated - day,Number,223,units,0,v1146069341,1.40.2,13,,,,0
+2020,Canada,2016A000011124,40,Episode date - month,Number,223,units,0,v1146069342,1.40.3,4,,,,0
+2020,Canada,2016A000011124,40,Episode date - day,Number,223,units,0,v1146069343,1.40.4,29,,,,0
+2020,Canada,2016A000011124,40,Gender,Number,223,units,0,v1146069344,1.40.5,1,,,,0
+2020,Canada,2016A000011124,40,Age group,Number,223,units,0,v1146069345,1.40.6,6,,,,0
+2020,Canada,2016A000011124,40,Transmission,Number,223,units,0,v1146069346,1.40.7,2,,,,0
+2020,Canada,2016A000011124,40,Hospitalization,Number,223,units,0,v1146069347,1.40.8,2,,,,0
+2020,Canada,2016A000011124,40,Intensive care unit,Number,223,units,0,v1146069348,1.40.9,9,,,,0
+2020,Canada,2016A000011124,40,Death,Number,223,units,0,v1146069349,1.40.10,9,,,,0
+2020,Canada,2016A000011124,40,"Hospitalization, previous status",Number,223,units,0,v1146163416,1.40.11,2,,,,0
+2020,Canada,2016A000011124,40,"Intensive care unit, previous status",Number,223,units,0,v1146163417,1.40.12,9,,,,0
+2020,Canada,2016A000011124,40,"Death, previous status",Number,223,units,0,v1146163418,1.40.13,9,,,,0
+2020,Canada,2016A000011124,41,Date case was last updated - month,Number,223,units,0,v1146069350,1.41.1,5,,,,0
+2020,Canada,2016A000011124,41,Date case was last updated - day,Number,223,units,0,v1146069351,1.41.2,11,,,,0
+2020,Canada,2016A000011124,41,Episode date - month,Number,223,units,0,v1146069352,1.41.3,4,,,,0
+2020,Canada,2016A000011124,41,Episode date - day,Number,223,units,0,v1146069353,1.41.4,25,,,,0
+2020,Canada,2016A000011124,41,Gender,Number,223,units,0,v1146069354,1.41.5,2,,,,0
+2020,Canada,2016A000011124,41,Age group,Number,223,units,0,v1146069355,1.41.6,1,,,,0
+2020,Canada,2016A000011124,41,Transmission,Number,223,units,0,v1146069356,1.41.7,2,,,,0
+2020,Canada,2016A000011124,41,Hospitalization,Number,223,units,0,v1146069357,1.41.8,2,,,,0
+2020,Canada,2016A000011124,41,Intensive care unit,Number,223,units,0,v1146069358,1.41.9,9,,,,0
+2020,Canada,2016A000011124,41,Death,Number,223,units,0,v1146069359,1.41.10,9,,,,0
+2020,Canada,2016A000011124,41,"Hospitalization, previous status",Number,223,units,0,v1146163419,1.41.11,2,,,,0
+2020,Canada,2016A000011124,41,"Intensive care unit, previous status",Number,223,units,0,v1146163420,1.41.12,9,,,,0
+2020,Canada,2016A000011124,41,"Death, previous status",Number,223,units,0,v1146163421,1.41.13,9,,,,0
+2020,Canada,2016A000011124,42,Date case was last updated - month,Number,223,units,0,v1146069360,1.42.1,5,,,,0
+2020,Canada,2016A000011124,42,Date case was last updated - day,Number,223,units,0,v1146069361,1.42.2,11,,,,0
+2020,Canada,2016A000011124,42,Episode date - month,Number,223,units,0,v1146069362,1.42.3,4,,,,0
+2020,Canada,2016A000011124,42,Episode date - day,Number,223,units,0,v1146069363,1.42.4,29,,,,0
+2020,Canada,2016A000011124,42,Gender,Number,223,units,0,v1146069364,1.42.5,1,,,,0
+2020,Canada,2016A000011124,42,Age group,Number,223,units,0,v1146069365,1.42.6,1,,,,0
+2020,Canada,2016A000011124,42,Transmission,Number,223,units,0,v1146069366,1.42.7,2,,,,0
+2020,Canada,2016A000011124,42,Hospitalization,Number,223,units,0,v1146069367,1.42.8,2,,,,0
+2020,Canada,2016A000011124,42,Intensive care unit,Number,223,units,0,v1146069368,1.42.9,9,,,,0
+2020,Canada,2016A000011124,42,Death,Number,223,units,0,v1146069369,1.42.10,9,,,,0
+2020,Canada,2016A000011124,42,"Hospitalization, previous status",Number,223,units,0,v1146163422,1.42.11,2,,,,0
+2020,Canada,2016A000011124,42,"Intensive care unit, previous status",Number,223,units,0,v1146163423,1.42.12,9,,,,0
+2020,Canada,2016A000011124,42,"Death, previous status",Number,223,units,0,v1146163424,1.42.13,9,,,,0
+2020,Canada,2016A000011124,43,Date case was last updated - month,Number,223,units,0,v1146069370,1.43.1,5,,,,0
+2020,Canada,2016A000011124,43,Date case was last updated - day,Number,223,units,0,v1146069371,1.43.2,11,,,,0
+2020,Canada,2016A000011124,43,Episode date - month,Number,223,units,0,v1146069372,1.43.3,4,,,,0
+2020,Canada,2016A000011124,43,Episode date - day,Number,223,units,0,v1146069373,1.43.4,19,,,,0
+2020,Canada,2016A000011124,43,Gender,Number,223,units,0,v1146069374,1.43.5,2,,,,0
+2020,Canada,2016A000011124,43,Age group,Number,223,units,0,v1146069375,1.43.6,4,,,,0
+2020,Canada,2016A000011124,43,Transmission,Number,223,units,0,v1146069376,1.43.7,2,,,,0
+2020,Canada,2016A000011124,43,Hospitalization,Number,223,units,0,v1146069377,1.43.8,9,,,,0
+2020,Canada,2016A000011124,43,Intensive care unit,Number,223,units,0,v1146069378,1.43.9,9,,,,0
+2020,Canada,2016A000011124,43,Death,Number,223,units,0,v1146069379,1.43.10,9,,,,0
+2020,Canada,2016A000011124,43,"Hospitalization, previous status",Number,223,units,0,v1146163425,1.43.11,9,,,,0
+2020,Canada,2016A000011124,43,"Intensive care unit, previous status",Number,223,units,0,v1146163426,1.43.12,9,,,,0
+2020,Canada,2016A000011124,43,"Death, previous status",Number,223,units,0,v1146163427,1.43.13,9,,,,0
+2020,Canada,2016A000011124,44,Date case was last updated - month,Number,223,units,0,v1146069380,1.44.1,5,,,,0
+2020,Canada,2016A000011124,44,Date case was last updated - day,Number,223,units,0,v1146069381,1.44.2,11,,,,0
+2020,Canada,2016A000011124,44,Episode date - month,Number,223,units,0,v1146069382,1.44.3,4,,,,0
+2020,Canada,2016A000011124,44,Episode date - day,Number,223,units,0,v1146069383,1.44.4,26,,,,0
+2020,Canada,2016A000011124,44,Gender,Number,223,units,0,v1146069384,1.44.5,1,,,,0
+2020,Canada,2016A000011124,44,Age group,Number,223,units,0,v1146069385,1.44.6,5,,,,0
+2020,Canada,2016A000011124,44,Transmission,Number,223,units,0,v1146069386,1.44.7,2,,,,0
+2020,Canada,2016A000011124,44,Hospitalization,Number,223,units,0,v1146069387,1.44.8,9,,,,0
+2020,Canada,2016A000011124,44,Intensive care unit,Number,223,units,0,v1146069388,1.44.9,9,,,,0
+2020,Canada,2016A000011124,44,Death,Number,223,units,0,v1146069389,1.44.10,9,,,,0
+2020,Canada,2016A000011124,44,"Hospitalization, previous status",Number,223,units,0,v1146163428,1.44.11,9,,,,0
+2020,Canada,2016A000011124,44,"Intensive care unit, previous status",Number,223,units,0,v1146163429,1.44.12,9,,,,0
+2020,Canada,2016A000011124,44,"Death, previous status",Number,223,units,0,v1146163430,1.44.13,9,,,,0
+2020,Canada,2016A000011124,45,Date case was last updated - month,Number,223,units,0,v1146069390,1.45.1,5,,,,0
+2020,Canada,2016A000011124,45,Date case was last updated - day,Number,223,units,0,v1146069391,1.45.2,11,,,,0
+2020,Canada,2016A000011124,45,Episode date - month,Number,223,units,0,v1146069392,1.45.3,4,,,,0
+2020,Canada,2016A000011124,45,Episode date - day,Number,223,units,0,v1146069393,1.45.4,30,,,,0
+2020,Canada,2016A000011124,45,Gender,Number,223,units,0,v1146069394,1.45.5,2,,,,0
+2020,Canada,2016A000011124,45,Age group,Number,223,units,0,v1146069395,1.45.6,4,,,,0
+2020,Canada,2016A000011124,45,Transmission,Number,223,units,0,v1146069396,1.45.7,2,,,,0
+2020,Canada,2016A000011124,45,Hospitalization,Number,223,units,0,v1146069397,1.45.8,1,,,,0
+2020,Canada,2016A000011124,45,Intensive care unit,Number,223,units,0,v1146069398,1.45.9,9,,,,0
+2020,Canada,2016A000011124,45,Death,Number,223,units,0,v1146069399,1.45.10,9,,,,0
+2020,Canada,2016A000011124,45,"Hospitalization, previous status",Number,223,units,0,v1146163431,1.45.11,1,,,,0
+2020,Canada,2016A000011124,45,"Intensive care unit, previous status",Number,223,units,0,v1146163432,1.45.12,9,,,,0
+2020,Canada,2016A000011124,45,"Death, previous status",Number,223,units,0,v1146163433,1.45.13,9,,,,0
+2020,Canada,2016A000011124,46,Date case was last updated - month,Number,223,units,0,v1146069400,1.46.1,5,,,,0
+2020,Canada,2016A000011124,46,Date case was last updated - day,Number,223,units,0,v1146069401,1.46.2,11,,,,0
+2020,Canada,2016A000011124,46,Episode date - month,Number,223,units,0,v1146069402,1.46.3,4,,,,0
+2020,Canada,2016A000011124,46,Episode date - day,Number,223,units,0,v1146069403,1.46.4,16,,,,0
+2020,Canada,2016A000011124,46,Gender,Number,223,units,0,v1146069404,1.46.5,2,,,,0
+2020,Canada,2016A000011124,46,Age group,Number,223,units,0,v1146069405,1.46.6,1,,,,0
+2020,Canada,2016A000011124,46,Transmission,Number,223,units,0,v1146069406,1.46.7,2,,,,0
+2020,Canada,2016A000011124,46,Hospitalization,Number,223,units,0,v1146069407,1.46.8,2,,,,0
+2020,Canada,2016A000011124,46,Intensive care unit,Number,223,units,0,v1146069408,1.46.9,9,,,,0
+2020,Canada,2016A000011124,46,Death,Number,223,units,0,v1146069409,1.46.10,9,,,,0
+2020,Canada,2016A000011124,46,"Hospitalization, previous status",Number,223,units,0,v1146163434,1.46.11,2,,,,0
+2020,Canada,2016A000011124,46,"Intensive care unit, previous status",Number,223,units,0,v1146163435,1.46.12,9,,,,0
+2020,Canada,2016A000011124,46,"Death, previous status",Number,223,units,0,v1146163436,1.46.13,9,,,,0
+2020,Canada,2016A000011124,47,Date case was last updated - month,Number,223,units,0,v1146069410,1.47.1,5,,,,0
+2020,Canada,2016A000011124,47,Date case was last updated - day,Number,223,units,0,v1146069411,1.47.2,11,,,,0
+2020,Canada,2016A000011124,47,Episode date - month,Number,223,units,0,v1146069412,1.47.3,4,,,,0
+2020,Canada,2016A000011124,47,Episode date - day,Number,223,units,0,v1146069413,1.47.4,17,,,,0
+2020,Canada,2016A000011124,47,Gender,Number,223,units,0,v1146069414,1.47.5,2,,,,0
+2020,Canada,2016A000011124,47,Age group,Number,223,units,0,v1146069415,1.47.6,6,,,,0
+2020,Canada,2016A000011124,47,Transmission,Number,223,units,0,v1146069416,1.47.7,3,,,,0
+2020,Canada,2016A000011124,47,Hospitalization,Number,223,units,0,v1146069417,1.47.8,9,,,,0
+2020,Canada,2016A000011124,47,Intensive care unit,Number,223,units,0,v1146069418,1.47.9,9,,,,0
+2020,Canada,2016A000011124,47,Death,Number,223,units,0,v1146069419,1.47.10,9,,,,0
+2020,Canada,2016A000011124,47,"Hospitalization, previous status",Number,223,units,0,v1146163437,1.47.11,9,,,,0
+2020,Canada,2016A000011124,47,"Intensive care unit, previous status",Number,223,units,0,v1146163438,1.47.12,9,,,,0
+2020,Canada,2016A000011124,47,"Death, previous status",Number,223,units,0,v1146163439,1.47.13,9,,,,0
+2020,Canada,2016A000011124,48,Date case was last updated - month,Number,223,units,0,v1146069420,1.48.1,5,,,,0
+2020,Canada,2016A000011124,48,Date case was last updated - day,Number,223,units,0,v1146069421,1.48.2,11,,,,0
+2020,Canada,2016A000011124,48,Episode date - month,Number,223,units,0,v1146069422,1.48.3,4,,,,0
+2020,Canada,2016A000011124,48,Episode date - day,Number,223,units,0,v1146069423,1.48.4,18,,,,0
+2020,Canada,2016A000011124,48,Gender,Number,223,units,0,v1146069424,1.48.5,1,,,,0
+2020,Canada,2016A000011124,48,Age group,Number,223,units,0,v1146069425,1.48.6,4,,,,0
+2020,Canada,2016A000011124,48,Transmission,Number,223,units,0,v1146069426,1.48.7,2,,,,0
+2020,Canada,2016A000011124,48,Hospitalization,Number,223,units,0,v1146069427,1.48.8,2,,,,0
+2020,Canada,2016A000011124,48,Intensive care unit,Number,223,units,0,v1146069428,1.48.9,9,,,,0
+2020,Canada,2016A000011124,48,Death,Number,223,units,0,v1146069429,1.48.10,9,,,,0
+2020,Canada,2016A000011124,48,"Hospitalization, previous status",Number,223,units,0,v1146163440,1.48.11,2,,,,0
+2020,Canada,2016A000011124,48,"Intensive care unit, previous status",Number,223,units,0,v1146163441,1.48.12,9,,,,0
+2020,Canada,2016A000011124,48,"Death, previous status",Number,223,units,0,v1146163442,1.48.13,9,,,,0
+2020,Canada,2016A000011124,49,Date case was last updated - month,Number,223,units,0,v1146069430,1.49.1,5,,,,0
+2020,Canada,2016A000011124,49,Date case was last updated - day,Number,223,units,0,v1146069431,1.49.2,11,,,,0
+2020,Canada,2016A000011124,49,Episode date - month,Number,223,units,0,v1146069432,1.49.3,4,,,,0
+2020,Canada,2016A000011124,49,Episode date - day,Number,223,units,0,v1146069433,1.49.4,26,,,,0
+2020,Canada,2016A000011124,49,Gender,Number,223,units,0,v1146069434,1.49.5,1,,,,0
+2020,Canada,2016A000011124,49,Age group,Number,223,units,0,v1146069435,1.49.6,2,,,,0
+2020,Canada,2016A000011124,49,Transmission,Number,223,units,0,v1146069436,1.49.7,2,,,,0
+2020,Canada,2016A000011124,49,Hospitalization,Number,223,units,0,v1146069437,1.49.8,2,,,,0
+2020,Canada,2016A000011124,49,Intensive care unit,Number,223,units,0,v1146069438,1.49.9,9,,,,0
+2020,Canada,2016A000011124,49,Death,Number,223,units,0,v1146069439,1.49.10,9,,,,0
+2020,Canada,2016A000011124,49,"Hospitalization, previous status",Number,223,units,0,v1146163443,1.49.11,2,,,,0
+2020,Canada,2016A000011124,49,"Intensive care unit, previous status",Number,223,units,0,v1146163444,1.49.12,9,,,,0
+2020,Canada,2016A000011124,49,"Death, previous status",Number,223,units,0,v1146163445,1.49.13,9,,,,0
+2020,Canada,2016A000011124,50,Date case was last updated - month,Number,223,units,0,v1146069440,1.50.1,5,,,,0
+2020,Canada,2016A000011124,50,Date case was last updated - day,Number,223,units,0,v1146069441,1.50.2,13,,,,0
+2020,Canada,2016A000011124,50,Episode date - month,Number,223,units,0,v1146069442,1.50.3,5,,,,0
+2020,Canada,2016A000011124,50,Episode date - day,Number,223,units,0,v1146069443,1.50.4,5,,,,0
+2020,Canada,2016A000011124,50,Gender,Number,223,units,0,v1146069444,1.50.5,2,,,,0
+2020,Canada,2016A000011124,50,Age group,Number,223,units,0,v1146069445,1.50.6,3,,,,0
+2020,Canada,2016A000011124,50,Transmission,Number,223,units,0,v1146069446,1.50.7,2,,,,0
+2020,Canada,2016A000011124,50,Hospitalization,Number,223,units,0,v1146069447,1.50.8,2,,,,0
+2020,Canada,2016A000011124,50,Intensive care unit,Number,223,units,0,v1146069448,1.50.9,9,,,,0
+2020,Canada,2016A000011124,50,Death,Number,223,units,0,v1146069449,1.50.10,9,,,,0
+2020,Canada,2016A000011124,50,"Hospitalization, previous status",Number,223,units,0,v1146163446,1.50.11,2,,,,0
+2020,Canada,2016A000011124,50,"Intensive care unit, previous status",Number,223,units,0,v1146163447,1.50.12,9,,,,0
+2020,Canada,2016A000011124,50,"Death, previous status",Number,223,units,0,v1146163448,1.50.13,9,,,,0
+2020,Canada,2016A000011124,51,Date case was last updated - month,Number,223,units,0,v1146069450,1.51.1,5,,,,0
+2020,Canada,2016A000011124,51,Date case was last updated - day,Number,223,units,0,v1146069451,1.51.2,11,,,,0
+2020,Canada,2016A000011124,51,Episode date - month,Number,223,units,0,v1146069452,1.51.3,4,,,,0
+2020,Canada,2016A000011124,51,Episode date - day,Number,223,units,0,v1146069453,1.51.4,19,,,,0
+2020,Canada,2016A000011124,51,Gender,Number,223,units,0,v1146069454,1.51.5,2,,,,0
+2020,Canada,2016A000011124,51,Age group,Number,223,units,0,v1146069455,1.51.6,2,,,,0
+2020,Canada,2016A000011124,51,Transmission,Number,223,units,0,v1146069456,1.51.7,2,,,,0
+2020,Canada,2016A000011124,51,Hospitalization,Number,223,units,0,v1146069457,1.51.8,2,,,,0
+2020,Canada,2016A000011124,51,Intensive care unit,Number,223,units,0,v1146069458,1.51.9,9,,,,0
+2020,Canada,2016A000011124,51,Death,Number,223,units,0,v1146069459,1.51.10,9,,,,0
+2020,Canada,2016A000011124,51,"Hospitalization, previous status",Number,223,units,0,v1146163449,1.51.11,2,,,,0
+2020,Canada,2016A000011124,51,"Intensive care unit, previous status",Number,223,units,0,v1146163450,1.51.12,9,,,,0
+2020,Canada,2016A000011124,51,"Death, previous status",Number,223,units,0,v1146163451,1.51.13,9,,,,0
+2020,Canada,2016A000011124,52,Date case was last updated - month,Number,223,units,0,v1146069460,1.52.1,5,,,,0
+2020,Canada,2016A000011124,52,Date case was last updated - day,Number,223,units,0,v1146069461,1.52.2,11,,,,0
+2020,Canada,2016A000011124,52,Episode date - month,Number,223,units,0,v1146069462,1.52.3,4,,,,0
+2020,Canada,2016A000011124,52,Episode date - day,Number,223,units,0,v1146069463,1.52.4,17,,,,0
+2020,Canada,2016A000011124,52,Gender,Number,223,units,0,v1146069464,1.52.5,1,,,,0
+2020,Canada,2016A000011124,52,Age group,Number,223,units,0,v1146069465,1.52.6,6,,,,0
+2020,Canada,2016A000011124,52,Transmission,Number,223,units,0,v1146069466,1.52.7,2,,,,0
+2020,Canada,2016A000011124,52,Hospitalization,Number,223,units,0,v1146069467,1.52.8,2,,,,0
+2020,Canada,2016A000011124,52,Intensive care unit,Number,223,units,0,v1146069468,1.52.9,9,,,,0
+2020,Canada,2016A000011124,52,Death,Number,223,units,0,v1146069469,1.52.10,9,,,,0
+2020,Canada,2016A000011124,52,"Hospitalization, previous status",Number,223,units,0,v1146163452,1.52.11,2,,,,0
+2020,Canada,2016A000011124,52,"Intensive care unit, previous status",Number,223,units,0,v1146163453,1.52.12,9,,,,0
+2020,Canada,2016A000011124,52,"Death, previous status",Number,223,units,0,v1146163454,1.52.13,9,,,,0
+2020,Canada,2016A000011124,53,Date case was last updated - month,Number,223,units,0,v1146069470,1.53.1,5,,,,0
+2020,Canada,2016A000011124,53,Date case was last updated - day,Number,223,units,0,v1146069471,1.53.2,13,,,,0
+2020,Canada,2016A000011124,53,Episode date - month,Number,223,units,0,v1146069472,1.53.3,5,,,,0
+2020,Canada,2016A000011124,53,Episode date - day,Number,223,units,0,v1146069473,1.53.4,5,,,,0
+2020,Canada,2016A000011124,53,Gender,Number,223,units,0,v1146069474,1.53.5,2,,,,0
+2020,Canada,2016A000011124,53,Age group,Number,223,units,0,v1146069475,1.53.6,4,,,,0
+2020,Canada,2016A000011124,53,Transmission,Number,223,units,0,v1146069476,1.53.7,2,,,,0
+2020,Canada,2016A000011124,53,Hospitalization,Number,223,units,0,v1146069477,1.53.8,2,,,,0
+2020,Canada,2016A000011124,53,Intensive care unit,Number,223,units,0,v1146069478,1.53.9,9,,,,0
+2020,Canada,2016A000011124,53,Death,Number,223,units,0,v1146069479,1.53.10,9,,,,0
+2020,Canada,2016A000011124,53,"Hospitalization, previous status",Number,223,units,0,v1146163455,1.53.11,2,,,,0
+2020,Canada,2016A000011124,53,"Intensive care unit, previous status",Number,223,units,0,v1146163456,1.53.12,9,,,,0
+2020,Canada,2016A000011124,53,"Death, previous status",Number,223,units,0,v1146163457,1.53.13,9,,,,0
+2020,Canada,2016A000011124,54,Date case was last updated - month,Number,223,units,0,v1146069480,1.54.1,5,,,,0
+2020,Canada,2016A000011124,54,Date case was last updated - day,Number,223,units,0,v1146069481,1.54.2,11,,,,0
+2020,Canada,2016A000011124,54,Episode date - month,Number,223,units,0,v1146069482,1.54.3,4,,,,0
+2020,Canada,2016A000011124,54,Episode date - day,Number,223,units,0,v1146069483,1.54.4,15,,,,0
+2020,Canada,2016A000011124,54,Gender,Number,223,units,0,v1146069484,1.54.5,2,,,,0
+2020,Canada,2016A000011124,54,Age group,Number,223,units,0,v1146069485,1.54.6,1,,,,0
+2020,Canada,2016A000011124,54,Transmission,Number,223,units,0,v1146069486,1.54.7,2,,,,0
+2020,Canada,2016A000011124,54,Hospitalization,Number,223,units,0,v1146069487,1.54.8,9,,,,0
+2020,Canada,2016A000011124,54,Intensive care unit,Number,223,units,0,v1146069488,1.54.9,9,,,,0
+2020,Canada,2016A000011124,54,Death,Number,223,units,0,v1146069489,1.54.10,2,,,,0
+2020,Canada,2016A000011124,54,"Hospitalization, previous status",Number,223,units,0,v1146163458,1.54.11,9,,,,0
+2020,Canada,2016A000011124,54,"Intensive care unit, previous status",Number,223,units,0,v1146163459,1.54.12,9,,,,0
+2020,Canada,2016A000011124,54,"Death, previous status",Number,223,units,0,v1146163460,1.54.13,2,,,,0
+2020,Canada,2016A000011124,55,Date case was last updated - month,Number,223,units,0,v1146069490,1.55.1,5,,,,0
+2020,Canada,2016A000011124,55,Date case was last updated - day,Number,223,units,0,v1146069491,1.55.2,13,,,,0
+2020,Canada,2016A000011124,55,Episode date - month,Number,223,units,0,v1146069492,1.55.3,5,,,,0
+2020,Canada,2016A000011124,55,Episode date - day,Number,223,units,0,v1146069493,1.55.4,2,,,,0
+2020,Canada,2016A000011124,55,Gender,Number,223,units,0,v1146069494,1.55.5,2,,,,0
+2020,Canada,2016A000011124,55,Age group,Number,223,units,0,v1146069495,1.55.6,1,,,,0
+2020,Canada,2016A000011124,55,Transmission,Number,223,units,0,v1146069496,1.55.7,2,,,,0
+2020,Canada,2016A000011124,55,Hospitalization,Number,223,units,0,v1146069497,1.55.8,2,,,,0
+2020,Canada,2016A000011124,55,Intensive care unit,Number,223,units,0,v1146069498,1.55.9,9,,,,0
+2020,Canada,2016A000011124,55,Death,Number,223,units,0,v1146069499,1.55.10,9,,,,0
+2020,Canada,2016A000011124,55,"Hospitalization, previous status",Number,223,units,0,v1146163461,1.55.11,2,,,,0
+2020,Canada,2016A000011124,55,"Intensive care unit, previous status",Number,223,units,0,v1146163462,1.55.12,9,,,,0
+2020,Canada,2016A000011124,55,"Death, previous status",Number,223,units,0,v1146163463,1.55.13,9,,,,0
+2020,Canada,2016A000011124,56,Date case was last updated - month,Number,223,units,0,v1146069500,1.56.1,5,,,,0
+2020,Canada,2016A000011124,56,Date case was last updated - day,Number,223,units,0,v1146069501,1.56.2,11,,,,0
+2020,Canada,2016A000011124,56,Episode date - month,Number,223,units,0,v1146069502,1.56.3,4,,,,0
+2020,Canada,2016A000011124,56,Episode date - day,Number,223,units,0,v1146069503,1.56.4,15,,,,0
+2020,Canada,2016A000011124,56,Gender,Number,223,units,0,v1146069504,1.56.5,2,,,,0
+2020,Canada,2016A000011124,56,Age group,Number,223,units,0,v1146069505,1.56.6,1,,,,0
+2020,Canada,2016A000011124,56,Transmission,Number,223,units,0,v1146069506,1.56.7,1,,,,0
+2020,Canada,2016A000011124,56,Hospitalization,Number,223,units,0,v1146069507,1.56.8,2,,,,0
+2020,Canada,2016A000011124,56,Intensive care unit,Number,223,units,0,v1146069508,1.56.9,9,,,,0
+2020,Canada,2016A000011124,56,Death,Number,223,units,0,v1146069509,1.56.10,9,,,,0
+2020,Canada,2016A000011124,56,"Hospitalization, previous status",Number,223,units,0,v1146163464,1.56.11,2,,,,0
+2020,Canada,2016A000011124,56,"Intensive care unit, previous status",Number,223,units,0,v1146163465,1.56.12,9,,,,0
+2020,Canada,2016A000011124,56,"Death, previous status",Number,223,units,0,v1146163466,1.56.13,9,,,,0
+2020,Canada,2016A000011124,57,Date case was last updated - month,Number,223,units,0,v1146069510,1.57.1,5,,,,0
+2020,Canada,2016A000011124,57,Date case was last updated - day,Number,223,units,0,v1146069511,1.57.2,13,,,,0
+2020,Canada,2016A000011124,57,Episode date - month,Number,223,units,0,v1146069512,1.57.3,4,,,,0
+2020,Canada,2016A000011124,57,Episode date - day,Number,223,units,0,v1146069513,1.57.4,25,,,,0
+2020,Canada,2016A000011124,57,Gender,Number,223,units,0,v1146069514,1.57.5,1,,,,0
+2020,Canada,2016A000011124,57,Age group,Number,223,units,0,v1146069515,1.57.6,6,,,,0
+2020,Canada,2016A000011124,57,Transmission,Number,223,units,0,v1146069516,1.57.7,2,,,,0
+2020,Canada,2016A000011124,57,Hospitalization,Number,223,units,0,v1146069517,1.57.8,2,,,,0
+2020,Canada,2016A000011124,57,Intensive care unit,Number,223,units,0,v1146069518,1.57.9,9,,,,0
+2020,Canada,2016A000011124,57,Death,Number,223,units,0,v1146069519,1.57.10,9,,,,0
+2020,Canada,2016A000011124,57,"Hospitalization, previous status",Number,223,units,0,v1146163467,1.57.11,2,,,,0
+2020,Canada,2016A000011124,57,"Intensive care unit, previous status",Number,223,units,0,v1146163468,1.57.12,9,,,,0
+2020,Canada,2016A000011124,57,"Death, previous status",Number,223,units,0,v1146163469,1.57.13,9,,,,0
+2020,Canada,2016A000011124,58,Date case was last updated - month,Number,223,units,0,v1146069520,1.58.1,5,,,,0
+2020,Canada,2016A000011124,58,Date case was last updated - day,Number,223,units,0,v1146069521,1.58.2,13,,,,0
+2020,Canada,2016A000011124,58,Episode date - month,Number,223,units,0,v1146069522,1.58.3,5,,,,0
+2020,Canada,2016A000011124,58,Episode date - day,Number,223,units,0,v1146069523,1.58.4,2,,,,0
+2020,Canada,2016A000011124,58,Gender,Number,223,units,0,v1146069524,1.58.5,1,,,,0
+2020,Canada,2016A000011124,58,Age group,Number,223,units,0,v1146069525,1.58.6,3,,,,0
+2020,Canada,2016A000011124,58,Transmission,Number,223,units,0,v1146069526,1.58.7,2,,,,0
+2020,Canada,2016A000011124,58,Hospitalization,Number,223,units,0,v1146069527,1.58.8,2,,,,0
+2020,Canada,2016A000011124,58,Intensive care unit,Number,223,units,0,v1146069528,1.58.9,9,,,,0
+2020,Canada,2016A000011124,58,Death,Number,223,units,0,v1146069529,1.58.10,9,,,,0
+2020,Canada,2016A000011124,58,"Hospitalization, previous status",Number,223,units,0,v1146163470,1.58.11,2,,,,0
+2020,Canada,2016A000011124,58,"Intensive care unit, previous status",Number,223,units,0,v1146163471,1.58.12,9,,,,0
+2020,Canada,2016A000011124,58,"Death, previous status",Number,223,units,0,v1146163472,1.58.13,9,,,,0
+2020,Canada,2016A000011124,59,Date case was last updated - month,Number,223,units,0,v1146069530,1.59.1,5,,,,0
+2020,Canada,2016A000011124,59,Date case was last updated - day,Number,223,units,0,v1146069531,1.59.2,11,,,,0
+2020,Canada,2016A000011124,59,Episode date - month,Number,223,units,0,v1146069532,1.59.3,4,,,,0
+2020,Canada,2016A000011124,59,Episode date - day,Number,223,units,0,v1146069533,1.59.4,27,,,,0
+2020,Canada,2016A000011124,59,Gender,Number,223,units,0,v1146069534,1.59.5,2,,,,0
+2020,Canada,2016A000011124,59,Age group,Number,223,units,0,v1146069535,1.59.6,4,,,,0
+2020,Canada,2016A000011124,59,Transmission,Number,223,units,0,v1146069536,1.59.7,2,,,,0
+2020,Canada,2016A000011124,59,Hospitalization,Number,223,units,0,v1146069537,1.59.8,2,,,,0
+2020,Canada,2016A000011124,59,Intensive care unit,Number,223,units,0,v1146069538,1.59.9,9,,,,0
+2020,Canada,2016A000011124,59,Death,Number,223,units,0,v1146069539,1.59.10,9,,,,0
+2020,Canada,2016A000011124,59,"Hospitalization, previous status",Number,223,units,0,v1146163473,1.59.11,2,,,,0
+2020,Canada,2016A000011124,59,"Intensive care unit, previous status",Number,223,units,0,v1146163474,1.59.12,9,,,,0
+2020,Canada,2016A000011124,59,"Death, previous status",Number,223,units,0,v1146163475,1.59.13,9,,,,0
+2020,Canada,2016A000011124,60,Date case was last updated - month,Number,223,units,0,v1146069540,1.60.1,5,,,,0
+2020,Canada,2016A000011124,60,Date case was last updated - day,Number,223,units,0,v1146069541,1.60.2,11,,,,0
+2020,Canada,2016A000011124,60,Episode date - month,Number,223,units,0,v1146069542,1.60.3,5,,,,0
+2020,Canada,2016A000011124,60,Episode date - day,Number,223,units,0,v1146069543,1.60.4,1,,,,0
+2020,Canada,2016A000011124,60,Gender,Number,223,units,0,v1146069544,1.60.5,1,,,,0
+2020,Canada,2016A000011124,60,Age group,Number,223,units,0,v1146069545,1.60.6,2,,,,0
+2020,Canada,2016A000011124,60,Transmission,Number,223,units,0,v1146069546,1.60.7,2,,,,0
+2020,Canada,2016A000011124,60,Hospitalization,Number,223,units,0,v1146069547,1.60.8,9,,,,0
+2020,Canada,2016A000011124,60,Intensive care unit,Number,223,units,0,v1146069548,1.60.9,9,,,,0
+2020,Canada,2016A000011124,60,Death,Number,223,units,0,v1146069549,1.60.10,9,,,,0
+2020,Canada,2016A000011124,60,"Hospitalization, previous status",Number,223,units,0,v1146163476,1.60.11,9,,,,0
+2020,Canada,2016A000011124,60,"Intensive care unit, previous status",Number,223,units,0,v1146163477,1.60.12,9,,,,0
+2020,Canada,2016A000011124,60,"Death, previous status",Number,223,units,0,v1146163478,1.60.13,9,,,,0
+2020,Canada,2016A000011124,61,Date case was last updated - month,Number,223,units,0,v1146069550,1.61.1,5,,,,0
+2020,Canada,2016A000011124,61,Date case was last updated - day,Number,223,units,0,v1146069551,1.61.2,11,,,,0
+2020,Canada,2016A000011124,61,Episode date - month,Number,223,units,0,v1146069552,1.61.3,4,,,,0
+2020,Canada,2016A000011124,61,Episode date - day,Number,223,units,0,v1146069553,1.61.4,8,,,,0
+2020,Canada,2016A000011124,61,Gender,Number,223,units,0,v1146069554,1.61.5,1,,,,0
+2020,Canada,2016A000011124,61,Age group,Number,223,units,0,v1146069555,1.61.6,4,,,,0
+2020,Canada,2016A000011124,61,Transmission,Number,223,units,0,v1146069556,1.61.7,2,,,,0
+2020,Canada,2016A000011124,61,Hospitalization,Number,223,units,0,v1146069557,1.61.8,2,,,,0
+2020,Canada,2016A000011124,61,Intensive care unit,Number,223,units,0,v1146069558,1.61.9,9,,,,0
+2020,Canada,2016A000011124,61,Death,Number,223,units,0,v1146069559,1.61.10,9,,,,0
+2020,Canada,2016A000011124,61,"Hospitalization, previous status",Number,223,units,0,v1146163479,1.61.11,2,,,,0
+2020,Canada,2016A000011124,61,"Intensive care unit, previous status",Number,223,units,0,v1146163480,1.61.12,9,,,,0
+2020,Canada,2016A000011124,61,"Death, previous status",Number,223,units,0,v1146163481,1.61.13,9,,,,0
+2020,Canada,2016A000011124,62,Date case was last updated - month,Number,223,units,0,v1146069560,1.62.1,5,,,,0
+2020,Canada,2016A000011124,62,Date case was last updated - day,Number,223,units,0,v1146069561,1.62.2,11,,,,0
+2020,Canada,2016A000011124,62,Episode date - month,Number,223,units,0,v1146069562,1.62.3,4,,,,0
+2020,Canada,2016A000011124,62,Episode date - day,Number,223,units,0,v1146069563,1.62.4,20,,,,0
+2020,Canada,2016A000011124,62,Gender,Number,223,units,0,v1146069564,1.62.5,1,,,,0
+2020,Canada,2016A000011124,62,Age group,Number,223,units,0,v1146069565,1.62.6,5,,,,0
+2020,Canada,2016A000011124,62,Transmission,Number,223,units,0,v1146069566,1.62.7,2,,,,0
+2020,Canada,2016A000011124,62,Hospitalization,Number,223,units,0,v1146069567,1.62.8,2,,,,0
+2020,Canada,2016A000011124,62,Intensive care unit,Number,223,units,0,v1146069568,1.62.9,9,,,,0
+2020,Canada,2016A000011124,62,Death,Number,223,units,0,v1146069569,1.62.10,9,,,,0
+2020,Canada,2016A000011124,62,"Hospitalization, previous status",Number,223,units,0,v1146163482,1.62.11,2,,,,0
+2020,Canada,2016A000011124,62,"Intensive care unit, previous status",Number,223,units,0,v1146163483,1.62.12,9,,,,0
+2020,Canada,2016A000011124,62,"Death, previous status",Number,223,units,0,v1146163484,1.62.13,9,,,,0
+2020,Canada,2016A000011124,63,Date case was last updated - month,Number,223,units,0,v1146069570,1.63.1,5,,,,0
+2020,Canada,2016A000011124,63,Date case was last updated - day,Number,223,units,0,v1146069571,1.63.2,13,,,,0
+2020,Canada,2016A000011124,63,Episode date - month,Number,223,units,0,v1146069572,1.63.3,4,,,,0
+2020,Canada,2016A000011124,63,Episode date - day,Number,223,units,0,v1146069573,1.63.4,28,,,,0
+2020,Canada,2016A000011124,63,Gender,Number,223,units,0,v1146069574,1.63.5,1,,,,0
+2020,Canada,2016A000011124,63,Age group,Number,223,units,0,v1146069575,1.63.6,6,,,,0
+2020,Canada,2016A000011124,63,Transmission,Number,223,units,0,v1146069576,1.63.7,2,,,,0
+2020,Canada,2016A000011124,63,Hospitalization,Number,223,units,0,v1146069577,1.63.8,2,,,,0
+2020,Canada,2016A000011124,63,Intensive care unit,Number,223,units,0,v1146069578,1.63.9,9,,,,0
+2020,Canada,2016A000011124,63,Death,Number,223,units,0,v1146069579,1.63.10,9,,,,0
+2020,Canada,2016A000011124,63,"Hospitalization, previous status",Number,223,units,0,v1146163485,1.63.11,2,,,,0
+2020,Canada,2016A000011124,63,"Intensive care unit, previous status",Number,223,units,0,v1146163486,1.63.12,9,,,,0
+2020,Canada,2016A000011124,63,"Death, previous status",Number,223,units,0,v1146163487,1.63.13,9,,,,0
+2020,Canada,2016A000011124,64,Date case was last updated - month,Number,223,units,0,v1146069580,1.64.1,5,,,,0
+2020,Canada,2016A000011124,64,Date case was last updated - day,Number,223,units,0,v1146069581,1.64.2,11,,,,0
+2020,Canada,2016A000011124,64,Episode date - month,Number,223,units,0,v1146069582,1.64.3,4,,,,0
+2020,Canada,2016A000011124,64,Episode date - day,Number,223,units,0,v1146069583,1.64.4,7,,,,0
+2020,Canada,2016A000011124,64,Gender,Number,223,units,0,v1146069584,1.64.5,1,,,,0
+2020,Canada,2016A000011124,64,Age group,Number,223,units,0,v1146069585,1.64.6,4,,,,0
+2020,Canada,2016A000011124,64,Transmission,Number,223,units,0,v1146069586,1.64.7,2,,,,0
+2020,Canada,2016A000011124,64,Hospitalization,Number,223,units,0,v1146069587,1.64.8,2,,,,0
+2020,Canada,2016A000011124,64,Intensive care unit,Number,223,units,0,v1146069588,1.64.9,9,,,,0
+2020,Canada,2016A000011124,64,Death,Number,223,units,0,v1146069589,1.64.10,9,,,,0
+2020,Canada,2016A000011124,64,"Hospitalization, previous status",Number,223,units,0,v1146163488,1.64.11,2,,,,0
+2020,Canada,2016A000011124,64,"Intensive care unit, previous status",Number,223,units,0,v1146163489,1.64.12,9,,,,0
+2020,Canada,2016A000011124,64,"Death, previous status",Number,223,units,0,v1146163490,1.64.13,9,,,,0
+2020,Canada,2016A000011124,65,Date case was last updated - month,Number,223,units,0,v1146069590,1.65.1,5,,,,0
+2020,Canada,2016A000011124,65,Date case was last updated - day,Number,223,units,0,v1146069591,1.65.2,13,,,,0
+2020,Canada,2016A000011124,65,Episode date - month,Number,223,units,0,v1146069592,1.65.3,4,,,,0
+2020,Canada,2016A000011124,65,Episode date - day,Number,223,units,0,v1146069593,1.65.4,19,,,,0
+2020,Canada,2016A000011124,65,Gender,Number,223,units,0,v1146069594,1.65.5,2,,,,0
+2020,Canada,2016A000011124,65,Age group,Number,223,units,0,v1146069595,1.65.6,1,,,,0
+2020,Canada,2016A000011124,65,Transmission,Number,223,units,0,v1146069596,1.65.7,2,,,,0
+2020,Canada,2016A000011124,65,Hospitalization,Number,223,units,0,v1146069597,1.65.8,2,,,,0
+2020,Canada,2016A000011124,65,Intensive care unit,Number,223,units,0,v1146069598,1.65.9,9,,,,0
+2020,Canada,2016A000011124,65,Death,Number,223,units,0,v1146069599,1.65.10,2,,,,0
+2020,Canada,2016A000011124,65,"Hospitalization, previous status",Number,223,units,0,v1146163491,1.65.11,2,,,,0
+2020,Canada,2016A000011124,65,"Intensive care unit, previous status",Number,223,units,0,v1146163492,1.65.12,9,,,,0
+2020,Canada,2016A000011124,65,"Death, previous status",Number,223,units,0,v1146163493,1.65.13,2,,,,0
+2020,Canada,2016A000011124,66,Date case was last updated - month,Number,223,units,0,v1146069600,1.66.1,5,,,,0
+2020,Canada,2016A000011124,66,Date case was last updated - day,Number,223,units,0,v1146069601,1.66.2,11,,,,0
+2020,Canada,2016A000011124,66,Episode date - month,Number,223,units,0,v1146069602,1.66.3,5,,,,0
+2020,Canada,2016A000011124,66,Episode date - day,Number,223,units,0,v1146069603,1.66.4,2,,,,0
+2020,Canada,2016A000011124,66,Gender,Number,223,units,0,v1146069604,1.66.5,1,,,,0
+2020,Canada,2016A000011124,66,Age group,Number,223,units,0,v1146069605,1.66.6,1,,,,0
+2020,Canada,2016A000011124,66,Transmission,Number,223,units,0,v1146069606,1.66.7,2,,,,0
+2020,Canada,2016A000011124,66,Hospitalization,Number,223,units,0,v1146069607,1.66.8,2,,,,0
+2020,Canada,2016A000011124,66,Intensive care unit,Number,223,units,0,v1146069608,1.66.9,9,,,,0
+2020,Canada,2016A000011124,66,Death,Number,223,units,0,v1146069609,1.66.10,9,,,,0
+2020,Canada,2016A000011124,66,"Hospitalization, previous status",Number,223,units,0,v1146163494,1.66.11,2,,,,0
+2020,Canada,2016A000011124,66,"Intensive care unit, previous status",Number,223,units,0,v1146163495,1.66.12,9,,,,0
+2020,Canada,2016A000011124,66,"Death, previous status",Number,223,units,0,v1146163496,1.66.13,9,,,,0
+2020,Canada,2016A000011124,67,Date case was last updated - month,Number,223,units,0,v1146069610,1.67.1,5,,,,0
+2020,Canada,2016A000011124,67,Date case was last updated - day,Number,223,units,0,v1146069611,1.67.2,11,,,,0
+2020,Canada,2016A000011124,67,Episode date - month,Number,223,units,0,v1146069612,1.67.3,4,,,,0
+2020,Canada,2016A000011124,67,Episode date - day,Number,223,units,0,v1146069613,1.67.4,17,,,,0
+2020,Canada,2016A000011124,67,Gender,Number,223,units,0,v1146069614,1.67.5,1,,,,0
+2020,Canada,2016A000011124,67,Age group,Number,223,units,0,v1146069615,1.67.6,7,,,,0
+2020,Canada,2016A000011124,67,Transmission,Number,223,units,0,v1146069616,1.67.7,2,,,,0
+2020,Canada,2016A000011124,67,Hospitalization,Number,223,units,0,v1146069617,1.67.8,1,,,,0
+2020,Canada,2016A000011124,67,Intensive care unit,Number,223,units,0,v1146069618,1.67.9,9,,,,0
+2020,Canada,2016A000011124,67,Death,Number,223,units,0,v1146069619,1.67.10,2,,,,0
+2020,Canada,2016A000011124,67,"Hospitalization, previous status",Number,223,units,0,v1146163497,1.67.11,1,,,,0
+2020,Canada,2016A000011124,67,"Intensive care unit, previous status",Number,223,units,0,v1146163498,1.67.12,9,,,,0
+2020,Canada,2016A000011124,67,"Death, previous status",Number,223,units,0,v1146163499,1.67.13,2,,,,0
+2020,Canada,2016A000011124,68,Date case was last updated - month,Number,223,units,0,v1146069620,1.68.1,5,,,,0
+2020,Canada,2016A000011124,68,Date case was last updated - day,Number,223,units,0,v1146069621,1.68.2,13,,,,0
+2020,Canada,2016A000011124,68,Episode date - month,Number,223,units,0,v1146069622,1.68.3,4,,,,0
+2020,Canada,2016A000011124,68,Episode date - day,Number,223,units,0,v1146069623,1.68.4,27,,,,0
+2020,Canada,2016A000011124,68,Gender,Number,223,units,0,v1146069624,1.68.5,2,,,,0
+2020,Canada,2016A000011124,68,Age group,Number,223,units,0,v1146069625,1.68.6,8,,,,0
+2020,Canada,2016A000011124,68,Transmission,Number,223,units,0,v1146069626,1.68.7,2,,,,0
+2020,Canada,2016A000011124,68,Hospitalization,Number,223,units,0,v1146069627,1.68.8,1,,,,0
+2020,Canada,2016A000011124,68,Intensive care unit,Number,223,units,0,v1146069628,1.68.9,9,,,,0
+2020,Canada,2016A000011124,68,Death,Number,223,units,0,v1146069629,1.68.10,9,,,,0
+2020,Canada,2016A000011124,68,"Hospitalization, previous status",Number,223,units,0,v1146163500,1.68.11,1,,,,0
+2020,Canada,2016A000011124,68,"Intensive care unit, previous status",Number,223,units,0,v1146163501,1.68.12,9,,,,0
+2020,Canada,2016A000011124,68,"Death, previous status",Number,223,units,0,v1146163502,1.68.13,9,,,,0
+2020,Canada,2016A000011124,69,Date case was last updated - month,Number,223,units,0,v1146069630,1.69.1,5,,,,0
+2020,Canada,2016A000011124,69,Date case was last updated - day,Number,223,units,0,v1146069631,1.69.2,11,,,,0
+2020,Canada,2016A000011124,69,Episode date - month,Number,223,units,0,v1146069632,1.69.3,4,,,,0
+2020,Canada,2016A000011124,69,Episode date - day,Number,223,units,0,v1146069633,1.69.4,13,,,,0
+2020,Canada,2016A000011124,69,Gender,Number,223,units,0,v1146069634,1.69.5,2,,,,0
+2020,Canada,2016A000011124,69,Age group,Number,223,units,0,v1146069635,1.69.6,1,,,,0
+2020,Canada,2016A000011124,69,Transmission,Number,223,units,0,v1146069636,1.69.7,1,,,,0
+2020,Canada,2016A000011124,69,Hospitalization,Number,223,units,0,v1146069637,1.69.8,2,,,,0
+2020,Canada,2016A000011124,69,Intensive care unit,Number,223,units,0,v1146069638,1.69.9,9,,,,0
+2020,Canada,2016A000011124,69,Death,Number,223,units,0,v1146069639,1.69.10,9,,,,0
+2020,Canada,2016A000011124,69,"Hospitalization, previous status",Number,223,units,0,v1146163503,1.69.11,2,,,,0
+2020,Canada,2016A000011124,69,"Intensive care unit, previous status",Number,223,units,0,v1146163504,1.69.12,9,,,,0
+2020,Canada,2016A000011124,69,"Death, previous status",Number,223,units,0,v1146163505,1.69.13,9,,,,0
+2020,Canada,2016A000011124,70,Date case was last updated - month,Number,223,units,0,v1146069640,1.70.1,5,,,,0
+2020,Canada,2016A000011124,70,Date case was last updated - day,Number,223,units,0,v1146069641,1.70.2,11,,,,0
+2020,Canada,2016A000011124,70,Episode date - month,Number,223,units,0,v1146069642,1.70.3,5,,,,0
+2020,Canada,2016A000011124,70,Episode date - day,Number,223,units,0,v1146069643,1.70.4,2,,,,0
+2020,Canada,2016A000011124,70,Gender,Number,223,units,0,v1146069644,1.70.5,1,,,,0
+2020,Canada,2016A000011124,70,Age group,Number,223,units,0,v1146069645,1.70.6,1,,,,0
+2020,Canada,2016A000011124,70,Transmission,Number,223,units,0,v1146069646,1.70.7,2,,,,0
+2020,Canada,2016A000011124,70,Hospitalization,Number,223,units,0,v1146069647,1.70.8,2,,,,0
+2020,Canada,2016A000011124,70,Intensive care unit,Number,223,units,0,v1146069648,1.70.9,9,,,,0
+2020,Canada,2016A000011124,70,Death,Number,223,units,0,v1146069649,1.70.10,9,,,,0
+2020,Canada,2016A000011124,70,"Hospitalization, previous status",Number,223,units,0,v1146163506,1.70.11,2,,,,0
+2020,Canada,2016A000011124,70,"Intensive care unit, previous status",Number,223,units,0,v1146163507,1.70.12,9,,,,0
+2020,Canada,2016A000011124,70,"Death, previous status",Number,223,units,0,v1146163508,1.70.13,9,,,,0
+2020,Canada,2016A000011124,71,Date case was last updated - month,Number,223,units,0,v1146069650,1.71.1,5,,,,0
+2020,Canada,2016A000011124,71,Date case was last updated - day,Number,223,units,0,v1146069651,1.71.2,11,,,,0
+2020,Canada,2016A000011124,71,Episode date - month,Number,223,units,0,v1146069652,1.71.3,4,,,,0
+2020,Canada,2016A000011124,71,Episode date - day,Number,223,units,0,v1146069653,1.71.4,30,,,,0
+2020,Canada,2016A000011124,71,Gender,Number,223,units,0,v1146069654,1.71.5,2,,,,0
+2020,Canada,2016A000011124,71,Age group,Number,223,units,0,v1146069655,1.71.6,3,,,,0
+2020,Canada,2016A000011124,71,Transmission,Number,223,units,0,v1146069656,1.71.7,2,,,,0
+2020,Canada,2016A000011124,71,Hospitalization,Number,223,units,0,v1146069657,1.71.8,9,,,,0
+2020,Canada,2016A000011124,71,Intensive care unit,Number,223,units,0,v1146069658,1.71.9,9,,,,0
+2020,Canada,2016A000011124,71,Death,Number,223,units,0,v1146069659,1.71.10,9,,,,0
+2020,Canada,2016A000011124,71,"Hospitalization, previous status",Number,223,units,0,v1146163509,1.71.11,9,,,,0
+2020,Canada,2016A000011124,71,"Intensive care unit, previous status",Number,223,units,0,v1146163510,1.71.12,9,,,,0
+2020,Canada,2016A000011124,71,"Death, previous status",Number,223,units,0,v1146163511,1.71.13,9,,,,0
+2020,Canada,2016A000011124,72,Date case was last updated - month,Number,223,units,0,v1146069660,1.72.1,5,,,,0
+2020,Canada,2016A000011124,72,Date case was last updated - day,Number,223,units,0,v1146069661,1.72.2,11,,,,0
+2020,Canada,2016A000011124,72,Episode date - month,Number,223,units,0,v1146069662,1.72.3,4,,,,0
+2020,Canada,2016A000011124,72,Episode date - day,Number,223,units,0,v1146069663,1.72.4,22,,,,0
+2020,Canada,2016A000011124,72,Gender,Number,223,units,0,v1146069664,1.72.5,1,,,,0
+2020,Canada,2016A000011124,72,Age group,Number,223,units,0,v1146069665,1.72.6,3,,,,0
+2020,Canada,2016A000011124,72,Transmission,Number,223,units,0,v1146069666,1.72.7,2,,,,0
+2020,Canada,2016A000011124,72,Hospitalization,Number,223,units,0,v1146069667,1.72.8,9,,,,0
+2020,Canada,2016A000011124,72,Intensive care unit,Number,223,units,0,v1146069668,1.72.9,9,,,,0
+2020,Canada,2016A000011124,72,Death,Number,223,units,0,v1146069669,1.72.10,9,,,,0
+2020,Canada,2016A000011124,72,"Hospitalization, previous status",Number,223,units,0,v1146163512,1.72.11,9,,,,0
+2020,Canada,2016A000011124,72,"Intensive care unit, previous status",Number,223,units,0,v1146163513,1.72.12,9,,,,0
+2020,Canada,2016A000011124,72,"Death, previous status",Number,223,units,0,v1146163514,1.72.13,9,,,,0
+2020,Canada,2016A000011124,73,Date case was last updated - month,Number,223,units,0,v1146069670,1.73.1,5,,,,0
+2020,Canada,2016A000011124,73,Date case was last updated - day,Number,223,units,0,v1146069671,1.73.2,11,,,,0
+2020,Canada,2016A000011124,73,Episode date - month,Number,223,units,0,v1146069672,1.73.3,5,,,,0
+2020,Canada,2016A000011124,73,Episode date - day,Number,223,units,0,v1146069673,1.73.4,3,,,,0
+2020,Canada,2016A000011124,73,Gender,Number,223,units,0,v1146069674,1.73.5,2,,,,0
+2020,Canada,2016A000011124,73,Age group,Number,223,units,0,v1146069675,1.73.6,7,,,,0
+2020,Canada,2016A000011124,73,Transmission,Number,223,units,0,v1146069676,1.73.7,2,,,,0
+2020,Canada,2016A000011124,73,Hospitalization,Number,223,units,0,v1146069677,1.73.8,2,,,,0
+2020,Canada,2016A000011124,73,Intensive care unit,Number,223,units,0,v1146069678,1.73.9,9,,,,0
+2020,Canada,2016A000011124,73,Death,Number,223,units,0,v1146069679,1.73.10,9,,,,0
+2020,Canada,2016A000011124,73,"Hospitalization, previous status",Number,223,units,0,v1146163515,1.73.11,2,,,,0
+2020,Canada,2016A000011124,73,"Intensive care unit, previous status",Number,223,units,0,v1146163516,1.73.12,9,,,,0
+2020,Canada,2016A000011124,73,"Death, previous status",Number,223,units,0,v1146163517,1.73.13,9,,,,0
+2020,Canada,2016A000011124,74,Date case was last updated - month,Number,223,units,0,v1146069680,1.74.1,5,,,,0
+2020,Canada,2016A000011124,74,Date case was last updated - day,Number,223,units,0,v1146069681,1.74.2,11,,,,0
+2020,Canada,2016A000011124,74,Episode date - month,Number,223,units,0,v1146069682,1.74.3,4,,,,0
+2020,Canada,2016A000011124,74,Episode date - day,Number,223,units,0,v1146069683,1.74.4,20,,,,0
+2020,Canada,2016A000011124,74,Gender,Number,223,units,0,v1146069684,1.74.5,2,,,,0
+2020,Canada,2016A000011124,74,Age group,Number,223,units,0,v1146069685,1.74.6,1,,,,0
+2020,Canada,2016A000011124,74,Transmission,Number,223,units,0,v1146069686,1.74.7,2,,,,0
+2020,Canada,2016A000011124,74,Hospitalization,Number,223,units,0,v1146069687,1.74.8,2,,,,0
+2020,Canada,2016A000011124,74,Intensive care unit,Number,223,units,0,v1146069688,1.74.9,9,,,,0
+2020,Canada,2016A000011124,74,Death,Number,223,units,0,v1146069689,1.74.10,9,,,,0
+2020,Canada,2016A000011124,74,"Hospitalization, previous status",Number,223,units,0,v1146163518,1.74.11,2,,,,0
+2020,Canada,2016A000011124,74,"Intensive care unit, previous status",Number,223,units,0,v1146163519,1.74.12,9,,,,0
+2020,Canada,2016A000011124,74,"Death, previous status",Number,223,units,0,v1146163520,1.74.13,9,,,,0
+2020,Canada,2016A000011124,75,Date case was last updated - month,Number,223,units,0,v1146069690,1.75.1,5,,,,0
+2020,Canada,2016A000011124,75,Date case was last updated - day,Number,223,units,0,v1146069691,1.75.2,11,,,,0
+2020,Canada,2016A000011124,75,Episode date - month,Number,223,units,0,v1146069692,1.75.3,4,,,,0
+2020,Canada,2016A000011124,75,Episode date - day,Number,223,units,0,v1146069693,1.75.4,18,,,,0
+2020,Canada,2016A000011124,75,Gender,Number,223,units,0,v1146069694,1.75.5,1,,,,0
+2020,Canada,2016A000011124,75,Age group,Number,223,units,0,v1146069695,1.75.6,4,,,,0
+2020,Canada,2016A000011124,75,Transmission,Number,223,units,0,v1146069696,1.75.7,2,,,,0
+2020,Canada,2016A000011124,75,Hospitalization,Number,223,units,0,v1146069697,1.75.8,2,,,,0
+2020,Canada,2016A000011124,75,Intensive care unit,Number,223,units,0,v1146069698,1.75.9,9,,,,0
+2020,Canada,2016A000011124,75,Death,Number,223,units,0,v1146069699,1.75.10,9,,,,0
+2020,Canada,2016A000011124,75,"Hospitalization, previous status",Number,223,units,0,v1146163521,1.75.11,2,,,,0
+2020,Canada,2016A000011124,75,"Intensive care unit, previous status",Number,223,units,0,v1146163522,1.75.12,9,,,,0
+2020,Canada,2016A000011124,75,"Death, previous status",Number,223,units,0,v1146163523,1.75.13,9,,,,0
+2020,Canada,2016A000011124,76,Date case was last updated - month,Number,223,units,0,v1146069700,1.76.1,5,,,,0
+2020,Canada,2016A000011124,76,Date case was last updated - day,Number,223,units,0,v1146069701,1.76.2,11,,,,0
+2020,Canada,2016A000011124,76,Episode date - month,Number,223,units,0,v1146069702,1.76.3,4,,,,0
+2020,Canada,2016A000011124,76,Episode date - day,Number,223,units,0,v1146069703,1.76.4,18,,,,0
+2020,Canada,2016A000011124,76,Gender,Number,223,units,0,v1146069704,1.76.5,2,,,,0
+2020,Canada,2016A000011124,76,Age group,Number,223,units,0,v1146069705,1.76.6,3,,,,0
+2020,Canada,2016A000011124,76,Transmission,Number,223,units,0,v1146069706,1.76.7,2,,,,0
+2020,Canada,2016A000011124,76,Hospitalization,Number,223,units,0,v1146069707,1.76.8,2,,,,0
+2020,Canada,2016A000011124,76,Intensive care unit,Number,223,units,0,v1146069708,1.76.9,9,,,,0
+2020,Canada,2016A000011124,76,Death,Number,223,units,0,v1146069709,1.76.10,9,,,,0
+2020,Canada,2016A000011124,76,"Hospitalization, previous status",Number,223,units,0,v1146163524,1.76.11,2,,,,0
+2020,Canada,2016A000011124,76,"Intensive care unit, previous status",Number,223,units,0,v1146163525,1.76.12,9,,,,0
+2020,Canada,2016A000011124,76,"Death, previous status",Number,223,units,0,v1146163526,1.76.13,9,,,,0
+2020,Canada,2016A000011124,77,Date case was last updated - month,Number,223,units,0,v1146069710,1.77.1,5,,,,0
+2020,Canada,2016A000011124,77,Date case was last updated - day,Number,223,units,0,v1146069711,1.77.2,11,,,,0
+2020,Canada,2016A000011124,77,Episode date - month,Number,223,units,0,v1146069712,1.77.3,4,,,,0
+2020,Canada,2016A000011124,77,Episode date - day,Number,223,units,0,v1146069713,1.77.4,24,,,,0
+2020,Canada,2016A000011124,77,Gender,Number,223,units,0,v1146069714,1.77.5,2,,,,0
+2020,Canada,2016A000011124,77,Age group,Number,223,units,0,v1146069715,1.77.6,2,,,,0
+2020,Canada,2016A000011124,77,Transmission,Number,223,units,0,v1146069716,1.77.7,2,,,,0
+2020,Canada,2016A000011124,77,Hospitalization,Number,223,units,0,v1146069717,1.77.8,9,,,,0
+2020,Canada,2016A000011124,77,Intensive care unit,Number,223,units,0,v1146069718,1.77.9,9,,,,0
+2020,Canada,2016A000011124,77,Death,Number,223,units,0,v1146069719,1.77.10,9,,,,0
+2020,Canada,2016A000011124,77,"Hospitalization, previous status",Number,223,units,0,v1146163527,1.77.11,9,,,,0
+2020,Canada,2016A000011124,77,"Intensive care unit, previous status",Number,223,units,0,v1146163528,1.77.12,9,,,,0
+2020,Canada,2016A000011124,77,"Death, previous status",Number,223,units,0,v1146163529,1.77.13,9,,,,0
+2020,Canada,2016A000011124,78,Date case was last updated - month,Number,223,units,0,v1146069720,1.78.1,5,,,,0
+2020,Canada,2016A000011124,78,Date case was last updated - day,Number,223,units,0,v1146069721,1.78.2,11,,,,0
+2020,Canada,2016A000011124,78,Episode date - month,Number,223,units,0,v1146069722,1.78.3,4,,,,0
+2020,Canada,2016A000011124,78,Episode date - day,Number,223,units,0,v1146069723,1.78.4,16,,,,0
+2020,Canada,2016A000011124,78,Gender,Number,223,units,0,v1146069724,1.78.5,2,,,,0
+2020,Canada,2016A000011124,78,Age group,Number,223,units,0,v1146069725,1.78.6,8,,,,0
+2020,Canada,2016A000011124,78,Transmission,Number,223,units,0,v1146069726,1.78.7,2,,,,0
+2020,Canada,2016A000011124,78,Hospitalization,Number,223,units,0,v1146069727,1.78.8,9,,,,0
+2020,Canada,2016A000011124,78,Intensive care unit,Number,223,units,0,v1146069728,1.78.9,9,,,,0
+2020,Canada,2016A000011124,78,Death,Number,223,units,0,v1146069729,1.78.10,2,,,,0
+2020,Canada,2016A000011124,78,"Hospitalization, previous status",Number,223,units,0,v1146163530,1.78.11,9,,,,0
+2020,Canada,2016A000011124,78,"Intensive care unit, previous status",Number,223,units,0,v1146163531,1.78.12,9,,,,0
+2020,Canada,2016A000011124,78,"Death, previous status",Number,223,units,0,v1146163532,1.78.13,2,,,,0
+2020,Canada,2016A000011124,79,Date case was last updated - month,Number,223,units,0,v1146069730,1.79.1,5,,,,0
+2020,Canada,2016A000011124,79,Date case was last updated - day,Number,223,units,0,v1146069731,1.79.2,11,,,,0
+2020,Canada,2016A000011124,79,Episode date - month,Number,223,units,0,v1146069732,1.79.3,4,,,,0
+2020,Canada,2016A000011124,79,Episode date - day,Number,223,units,0,v1146069733,1.79.4,30,,,,0
+2020,Canada,2016A000011124,79,Gender,Number,223,units,0,v1146069734,1.79.5,2,,,,0
+2020,Canada,2016A000011124,79,Age group,Number,223,units,0,v1146069735,1.79.6,2,,,,0
+2020,Canada,2016A000011124,79,Transmission,Number,223,units,0,v1146069736,1.79.7,2,,,,0
+2020,Canada,2016A000011124,79,Hospitalization,Number,223,units,0,v1146069737,1.79.8,9,,,,0
+2020,Canada,2016A000011124,79,Intensive care unit,Number,223,units,0,v1146069738,1.79.9,9,,,,0
+2020,Canada,2016A000011124,79,Death,Number,223,units,0,v1146069739,1.79.10,9,,,,0
+2020,Canada,2016A000011124,79,"Hospitalization, previous status",Number,223,units,0,v1146163533,1.79.11,9,,,,0
+2020,Canada,2016A000011124,79,"Intensive care unit, previous status",Number,223,units,0,v1146163534,1.79.12,9,,,,0
+2020,Canada,2016A000011124,79,"Death, previous status",Number,223,units,0,v1146163535,1.79.13,9,,,,0
+2020,Canada,2016A000011124,80,Date case was last updated - month,Number,223,units,0,v1146069740,1.80.1,5,,,,0
+2020,Canada,2016A000011124,80,Date case was last updated - day,Number,223,units,0,v1146069741,1.80.2,11,,,,0
+2020,Canada,2016A000011124,80,Episode date - month,Number,223,units,0,v1146069742,1.80.3,4,,,,0
+2020,Canada,2016A000011124,80,Episode date - day,Number,223,units,0,v1146069743,1.80.4,12,,,,0
+2020,Canada,2016A000011124,80,Gender,Number,223,units,0,v1146069744,1.80.5,1,,,,0
+2020,Canada,2016A000011124,80,Age group,Number,223,units,0,v1146069745,1.80.6,5,,,,0
+2020,Canada,2016A000011124,80,Transmission,Number,223,units,0,v1146069746,1.80.7,2,,,,0
+2020,Canada,2016A000011124,80,Hospitalization,Number,223,units,0,v1146069747,1.80.8,2,,,,0
+2020,Canada,2016A000011124,80,Intensive care unit,Number,223,units,0,v1146069748,1.80.9,9,,,,0
+2020,Canada,2016A000011124,80,Death,Number,223,units,0,v1146069749,1.80.10,9,,,,0
+2020,Canada,2016A000011124,80,"Hospitalization, previous status",Number,223,units,0,v1146163536,1.80.11,2,,,,0
+2020,Canada,2016A000011124,80,"Intensive care unit, previous status",Number,223,units,0,v1146163537,1.80.12,9,,,,0
+2020,Canada,2016A000011124,80,"Death, previous status",Number,223,units,0,v1146163538,1.80.13,9,,,,0
+2020,Canada,2016A000011124,81,Date case was last updated - month,Number,223,units,0,v1146069750,1.81.1,5,,,,0
+2020,Canada,2016A000011124,81,Date case was last updated - day,Number,223,units,0,v1146069751,1.81.2,11,,,,0
+2020,Canada,2016A000011124,81,Episode date - month,Number,223,units,0,v1146069752,1.81.3,4,,,,0
+2020,Canada,2016A000011124,81,Episode date - day,Number,223,units,0,v1146069753,1.81.4,26,,,,0
+2020,Canada,2016A000011124,81,Gender,Number,223,units,0,v1146069754,1.81.5,2,,,,0
+2020,Canada,2016A000011124,81,Age group,Number,223,units,0,v1146069755,1.81.6,4,,,,0
+2020,Canada,2016A000011124,81,Transmission,Number,223,units,0,v1146069756,1.81.7,2,,,,0
+2020,Canada,2016A000011124,81,Hospitalization,Number,223,units,0,v1146069757,1.81.8,9,,,,0
+2020,Canada,2016A000011124,81,Intensive care unit,Number,223,units,0,v1146069758,1.81.9,9,,,,0
+2020,Canada,2016A000011124,81,Death,Number,223,units,0,v1146069759,1.81.10,9,,,,0
+2020,Canada,2016A000011124,81,"Hospitalization, previous status",Number,223,units,0,v1146163539,1.81.11,9,,,,0
+2020,Canada,2016A000011124,81,"Intensive care unit, previous status",Number,223,units,0,v1146163540,1.81.12,9,,,,0
+2020,Canada,2016A000011124,81,"Death, previous status",Number,223,units,0,v1146163541,1.81.13,9,,,,0
+2020,Canada,2016A000011124,82,Date case was last updated - month,Number,223,units,0,v1146069760,1.82.1,5,,,,0
+2020,Canada,2016A000011124,82,Date case was last updated - day,Number,223,units,0,v1146069761,1.82.2,11,,,,0
+2020,Canada,2016A000011124,82,Episode date - month,Number,223,units,0,v1146069762,1.82.3,4,,,,0
+2020,Canada,2016A000011124,82,Episode date - day,Number,223,units,0,v1146069763,1.82.4,17,,,,0
+2020,Canada,2016A000011124,82,Gender,Number,223,units,0,v1146069764,1.82.5,2,,,,0
+2020,Canada,2016A000011124,82,Age group,Number,223,units,0,v1146069765,1.82.6,3,,,,0
+2020,Canada,2016A000011124,82,Transmission,Number,223,units,0,v1146069766,1.82.7,2,,,,0
+2020,Canada,2016A000011124,82,Hospitalization,Number,223,units,0,v1146069767,1.82.8,9,,,,0
+2020,Canada,2016A000011124,82,Intensive care unit,Number,223,units,0,v1146069768,1.82.9,9,,,,0
+2020,Canada,2016A000011124,82,Death,Number,223,units,0,v1146069769,1.82.10,2,,,,0
+2020,Canada,2016A000011124,82,"Hospitalization, previous status",Number,223,units,0,v1146163542,1.82.11,9,,,,0
+2020,Canada,2016A000011124,82,"Intensive care unit, previous status",Number,223,units,0,v1146163543,1.82.12,9,,,,0
+2020,Canada,2016A000011124,82,"Death, previous status",Number,223,units,0,v1146163544,1.82.13,2,,,,0
+2020,Canada,2016A000011124,83,Date case was last updated - month,Number,223,units,0,v1146069770,1.83.1,5,,,,0
+2020,Canada,2016A000011124,83,Date case was last updated - day,Number,223,units,0,v1146069771,1.83.2,11,,,,0
+2020,Canada,2016A000011124,83,Episode date - month,Number,223,units,0,v1146069772,1.83.3,4,,,,0
+2020,Canada,2016A000011124,83,Episode date - day,Number,223,units,0,v1146069773,1.83.4,29,,,,0
+2020,Canada,2016A000011124,83,Gender,Number,223,units,0,v1146069774,1.83.5,2,,,,0
+2020,Canada,2016A000011124,83,Age group,Number,223,units,0,v1146069775,1.83.6,5,,,,0
+2020,Canada,2016A000011124,83,Transmission,Number,223,units,0,v1146069776,1.83.7,2,,,,0
+2020,Canada,2016A000011124,83,Hospitalization,Number,223,units,0,v1146069777,1.83.8,2,,,,0
+2020,Canada,2016A000011124,83,Intensive care unit,Number,223,units,0,v1146069778,1.83.9,9,,,,0
+2020,Canada,2016A000011124,83,Death,Number,223,units,0,v1146069779,1.83.10,9,,,,0
+2020,Canada,2016A000011124,83,"Hospitalization, previous status",Number,223,units,0,v1146163545,1.83.11,2,,,,0
+2020,Canada,2016A000011124,83,"Intensive care unit, previous status",Number,223,units,0,v1146163546,1.83.12,9,,,,0
+2020,Canada,2016A000011124,83,"Death, previous status",Number,223,units,0,v1146163547,1.83.13,9,,,,0
+2020,Canada,2016A000011124,84,Date case was last updated - month,Number,223,units,0,v1146069780,1.84.1,5,,,,0
+2020,Canada,2016A000011124,84,Date case was last updated - day,Number,223,units,0,v1146069781,1.84.2,11,,,,0
+2020,Canada,2016A000011124,84,Episode date - month,Number,223,units,0,v1146069782,1.84.3,4,,,,0
+2020,Canada,2016A000011124,84,Episode date - day,Number,223,units,0,v1146069783,1.84.4,18,,,,0
+2020,Canada,2016A000011124,84,Gender,Number,223,units,0,v1146069784,1.84.5,2,,,,0
+2020,Canada,2016A000011124,84,Age group,Number,223,units,0,v1146069785,1.84.6,1,,,,0
+2020,Canada,2016A000011124,84,Transmission,Number,223,units,0,v1146069786,1.84.7,2,,,,0
+2020,Canada,2016A000011124,84,Hospitalization,Number,223,units,0,v1146069787,1.84.8,2,,,,0
+2020,Canada,2016A000011124,84,Intensive care unit,Number,223,units,0,v1146069788,1.84.9,9,,,,0
+2020,Canada,2016A000011124,84,Death,Number,223,units,0,v1146069789,1.84.10,9,,,,0
+2020,Canada,2016A000011124,84,"Hospitalization, previous status",Number,223,units,0,v1146163548,1.84.11,2,,,,0
+2020,Canada,2016A000011124,84,"Intensive care unit, previous status",Number,223,units,0,v1146163549,1.84.12,9,,,,0
+2020,Canada,2016A000011124,84,"Death, previous status",Number,223,units,0,v1146163550,1.84.13,9,,,,0
+2020,Canada,2016A000011124,85,Date case was last updated - month,Number,223,units,0,v1146069790,1.85.1,5,,,,0
+2020,Canada,2016A000011124,85,Date case was last updated - day,Number,223,units,0,v1146069791,1.85.2,11,,,,0
+2020,Canada,2016A000011124,85,Episode date - month,Number,223,units,0,v1146069792,1.85.3,4,,,,0
+2020,Canada,2016A000011124,85,Episode date - day,Number,223,units,0,v1146069793,1.85.4,16,,,,0
+2020,Canada,2016A000011124,85,Gender,Number,223,units,0,v1146069794,1.85.5,1,,,,0
+2020,Canada,2016A000011124,85,Age group,Number,223,units,0,v1146069795,1.85.6,3,,,,0
+2020,Canada,2016A000011124,85,Transmission,Number,223,units,0,v1146069796,1.85.7,2,,,,0
+2020,Canada,2016A000011124,85,Hospitalization,Number,223,units,0,v1146069797,1.85.8,2,,,,0
+2020,Canada,2016A000011124,85,Intensive care unit,Number,223,units,0,v1146069798,1.85.9,9,,,,0
+2020,Canada,2016A000011124,85,Death,Number,223,units,0,v1146069799,1.85.10,9,,,,0
+2020,Canada,2016A000011124,85,"Hospitalization, previous status",Number,223,units,0,v1146163551,1.85.11,2,,,,0
+2020,Canada,2016A000011124,85,"Intensive care unit, previous status",Number,223,units,0,v1146163552,1.85.12,9,,,,0
+2020,Canada,2016A000011124,85,"Death, previous status",Number,223,units,0,v1146163553,1.85.13,9,,,,0
+2020,Canada,2016A000011124,86,Date case was last updated - month,Number,223,units,0,v1146069800,1.86.1,5,,,,0
+2020,Canada,2016A000011124,86,Date case was last updated - day,Number,223,units,0,v1146069801,1.86.2,11,,,,0
+2020,Canada,2016A000011124,86,Episode date - month,Number,223,units,0,v1146069802,1.86.3,5,,,,0
+2020,Canada,2016A000011124,86,Episode date - day,Number,223,units,0,v1146069803,1.86.4,2,,,,0
+2020,Canada,2016A000011124,86,Gender,Number,223,units,0,v1146069804,1.86.5,1,,,,0
+2020,Canada,2016A000011124,86,Age group,Number,223,units,0,v1146069805,1.86.6,1,,,,0
+2020,Canada,2016A000011124,86,Transmission,Number,223,units,0,v1146069806,1.86.7,2,,,,0
+2020,Canada,2016A000011124,86,Hospitalization,Number,223,units,0,v1146069807,1.86.8,2,,,,0
+2020,Canada,2016A000011124,86,Intensive care unit,Number,223,units,0,v1146069808,1.86.9,9,,,,0
+2020,Canada,2016A000011124,86,Death,Number,223,units,0,v1146069809,1.86.10,9,,,,0
+2020,Canada,2016A000011124,86,"Hospitalization, previous status",Number,223,units,0,v1146163554,1.86.11,2,,,,0
+2020,Canada,2016A000011124,86,"Intensive care unit, previous status",Number,223,units,0,v1146163555,1.86.12,9,,,,0
+2020,Canada,2016A000011124,86,"Death, previous status",Number,223,units,0,v1146163556,1.86.13,9,,,,0
+2020,Canada,2016A000011124,87,Date case was last updated - month,Number,223,units,0,v1146069810,1.87.1,5,,,,0
+2020,Canada,2016A000011124,87,Date case was last updated - day,Number,223,units,0,v1146069811,1.87.2,11,,,,0
+2020,Canada,2016A000011124,87,Episode date - month,Number,223,units,0,v1146069812,1.87.3,4,,,,0
+2020,Canada,2016A000011124,87,Episode date - day,Number,223,units,0,v1146069813,1.87.4,23,,,,0
+2020,Canada,2016A000011124,87,Gender,Number,223,units,0,v1146069814,1.87.5,1,,,,0
+2020,Canada,2016A000011124,87,Age group,Number,223,units,0,v1146069815,1.87.6,5,,,,0
+2020,Canada,2016A000011124,87,Transmission,Number,223,units,0,v1146069816,1.87.7,2,,,,0
+2020,Canada,2016A000011124,87,Hospitalization,Number,223,units,0,v1146069817,1.87.8,1,,,,0
+2020,Canada,2016A000011124,87,Intensive care unit,Number,223,units,0,v1146069818,1.87.9,9,,,,0
+2020,Canada,2016A000011124,87,Death,Number,223,units,0,v1146069819,1.87.10,9,,,,0
+2020,Canada,2016A000011124,87,"Hospitalization, previous status",Number,223,units,0,v1146163557,1.87.11,1,,,,0
+2020,Canada,2016A000011124,87,"Intensive care unit, previous status",Number,223,units,0,v1146163558,1.87.12,9,,,,0
+2020,Canada,2016A000011124,87,"Death, previous status",Number,223,units,0,v1146163559,1.87.13,9,,,,0
+2020,Canada,2016A000011124,88,Date case was last updated - month,Number,223,units,0,v1146069820,1.88.1,5,,,,0
+2020,Canada,2016A000011124,88,Date case was last updated - day,Number,223,units,0,v1146069821,1.88.2,11,,,,0
+2020,Canada,2016A000011124,88,Episode date - month,Number,223,units,0,v1146069822,1.88.3,4,,,,0
+2020,Canada,2016A000011124,88,Episode date - day,Number,223,units,0,v1146069823,1.88.4,25,,,,0
+2020,Canada,2016A000011124,88,Gender,Number,223,units,0,v1146069824,1.88.5,2,,,,0
+2020,Canada,2016A000011124,88,Age group,Number,223,units,0,v1146069825,1.88.6,4,,,,0
+2020,Canada,2016A000011124,88,Transmission,Number,223,units,0,v1146069826,1.88.7,1,,,,0
+2020,Canada,2016A000011124,88,Hospitalization,Number,223,units,0,v1146069827,1.88.8,2,,,,0
+2020,Canada,2016A000011124,88,Intensive care unit,Number,223,units,0,v1146069828,1.88.9,9,,,,0
+2020,Canada,2016A000011124,88,Death,Number,223,units,0,v1146069829,1.88.10,9,,,,0
+2020,Canada,2016A000011124,88,"Hospitalization, previous status",Number,223,units,0,v1146163560,1.88.11,2,,,,0
+2020,Canada,2016A000011124,88,"Intensive care unit, previous status",Number,223,units,0,v1146163561,1.88.12,9,,,,0
+2020,Canada,2016A000011124,88,"Death, previous status",Number,223,units,0,v1146163562,1.88.13,9,,,,0
+2020,Canada,2016A000011124,89,Date case was last updated - month,Number,223,units,0,v1146069830,1.89.1,5,,,,0
+2020,Canada,2016A000011124,89,Date case was last updated - day,Number,223,units,0,v1146069831,1.89.2,11,,,,0
+2020,Canada,2016A000011124,89,Episode date - month,Number,223,units,0,v1146069832,1.89.3,4,,,,0
+2020,Canada,2016A000011124,89,Episode date - day,Number,223,units,0,v1146069833,1.89.4,24,,,,0
+2020,Canada,2016A000011124,89,Gender,Number,223,units,0,v1146069834,1.89.5,1,,,,0
+2020,Canada,2016A000011124,89,Age group,Number,223,units,0,v1146069835,1.89.6,3,,,,0
+2020,Canada,2016A000011124,89,Transmission,Number,223,units,0,v1146069836,1.89.7,2,,,,0
+2020,Canada,2016A000011124,89,Hospitalization,Number,223,units,0,v1146069837,1.89.8,2,,,,0
+2020,Canada,2016A000011124,89,Intensive care unit,Number,223,units,0,v1146069838,1.89.9,9,,,,0
+2020,Canada,2016A000011124,89,Death,Number,223,units,0,v1146069839,1.89.10,9,,,,0
+2020,Canada,2016A000011124,89,"Hospitalization, previous status",Number,223,units,0,v1146163563,1.89.11,2,,,,0
+2020,Canada,2016A000011124,89,"Intensive care unit, previous status",Number,223,units,0,v1146163564,1.89.12,9,,,,0
+2020,Canada,2016A000011124,89,"Death, previous status",Number,223,units,0,v1146163565,1.89.13,9,,,,0
+2020,Canada,2016A000011124,90,Date case was last updated - month,Number,223,units,0,v1146069840,1.90.1,5,,,,0
+2020,Canada,2016A000011124,90,Date case was last updated - day,Number,223,units,0,v1146069841,1.90.2,13,,,,0
+2020,Canada,2016A000011124,90,Episode date - month,Number,223,units,0,v1146069842,1.90.3,5,,,,0
+2020,Canada,2016A000011124,90,Episode date - day,Number,223,units,0,v1146069843,1.90.4,5,,,,0
+2020,Canada,2016A000011124,90,Gender,Number,223,units,0,v1146069844,1.90.5,1,,,,0
+2020,Canada,2016A000011124,90,Age group,Number,223,units,0,v1146069845,1.90.6,1,,,,0
+2020,Canada,2016A000011124,90,Transmission,Number,223,units,0,v1146069846,1.90.7,2,,,,0
+2020,Canada,2016A000011124,90,Hospitalization,Number,223,units,0,v1146069847,1.90.8,2,,,,0
+2020,Canada,2016A000011124,90,Intensive care unit,Number,223,units,0,v1146069848,1.90.9,9,,,,0
+2020,Canada,2016A000011124,90,Death,Number,223,units,0,v1146069849,1.90.10,9,,,,0
+2020,Canada,2016A000011124,90,"Hospitalization, previous status",Number,223,units,0,v1146163566,1.90.11,2,,,,0
+2020,Canada,2016A000011124,90,"Intensive care unit, previous status",Number,223,units,0,v1146163567,1.90.12,9,,,,0
+2020,Canada,2016A000011124,90,"Death, previous status",Number,223,units,0,v1146163568,1.90.13,9,,,,0
+2020,Canada,2016A000011124,91,Date case was last updated - month,Number,223,units,0,v1146069850,1.91.1,5,,,,0
+2020,Canada,2016A000011124,91,Date case was last updated - day,Number,223,units,0,v1146069851,1.91.2,11,,,,0
+2020,Canada,2016A000011124,91,Episode date - month,Number,223,units,0,v1146069852,1.91.3,4,,,,0
+2020,Canada,2016A000011124,91,Episode date - day,Number,223,units,0,v1146069853,1.91.4,17,,,,0
+2020,Canada,2016A000011124,91,Gender,Number,223,units,0,v1146069854,1.91.5,1,,,,0
+2020,Canada,2016A000011124,91,Age group,Number,223,units,0,v1146069855,1.91.6,3,,,,0
+2020,Canada,2016A000011124,91,Transmission,Number,223,units,0,v1146069856,1.91.7,2,,,,0
+2020,Canada,2016A000011124,91,Hospitalization,Number,223,units,0,v1146069857,1.91.8,2,,,,0
+2020,Canada,2016A000011124,91,Intensive care unit,Number,223,units,0,v1146069858,1.91.9,9,,,,0
+2020,Canada,2016A000011124,91,Death,Number,223,units,0,v1146069859,1.91.10,9,,,,0
+2020,Canada,2016A000011124,91,"Hospitalization, previous status",Number,223,units,0,v1146163569,1.91.11,2,,,,0
+2020,Canada,2016A000011124,91,"Intensive care unit, previous status",Number,223,units,0,v1146163570,1.91.12,9,,,,0
+2020,Canada,2016A000011124,91,"Death, previous status",Number,223,units,0,v1146163571,1.91.13,9,,,,0
+2020,Canada,2016A000011124,92,Date case was last updated - month,Number,223,units,0,v1146069860,1.92.1,5,,,,0
+2020,Canada,2016A000011124,92,Date case was last updated - day,Number,223,units,0,v1146069861,1.92.2,11,,,,0
+2020,Canada,2016A000011124,92,Episode date - month,Number,223,units,0,v1146069862,1.92.3,5,,,,0
+2020,Canada,2016A000011124,92,Episode date - day,Number,223,units,0,v1146069863,1.92.4,3,,,,0
+2020,Canada,2016A000011124,92,Gender,Number,223,units,0,v1146069864,1.92.5,1,,,,0
+2020,Canada,2016A000011124,92,Age group,Number,223,units,0,v1146069865,1.92.6,2,,,,0
+2020,Canada,2016A000011124,92,Transmission,Number,223,units,0,v1146069866,1.92.7,2,,,,0
+2020,Canada,2016A000011124,92,Hospitalization,Number,223,units,0,v1146069867,1.92.8,2,,,,0
+2020,Canada,2016A000011124,92,Intensive care unit,Number,223,units,0,v1146069868,1.92.9,9,,,,0
+2020,Canada,2016A000011124,92,Death,Number,223,units,0,v1146069869,1.92.10,9,,,,0
+2020,Canada,2016A000011124,92,"Hospitalization, previous status",Number,223,units,0,v1146163572,1.92.11,2,,,,0
+2020,Canada,2016A000011124,92,"Intensive care unit, previous status",Number,223,units,0,v1146163573,1.92.12,9,,,,0
+2020,Canada,2016A000011124,92,"Death, previous status",Number,223,units,0,v1146163574,1.92.13,9,,,,0
+2020,Canada,2016A000011124,93,Date case was last updated - month,Number,223,units,0,v1146069870,1.93.1,5,,,,0
+2020,Canada,2016A000011124,93,Date case was last updated - day,Number,223,units,0,v1146069871,1.93.2,11,,,,0
+2020,Canada,2016A000011124,93,Episode date - month,Number,223,units,0,v1146069872,1.93.3,4,,,,0
+2020,Canada,2016A000011124,93,Episode date - day,Number,223,units,0,v1146069873,1.93.4,11,,,,0
+2020,Canada,2016A000011124,93,Gender,Number,223,units,0,v1146069874,1.93.5,2,,,,0
+2020,Canada,2016A000011124,93,Age group,Number,223,units,0,v1146069875,1.93.6,4,,,,0
+2020,Canada,2016A000011124,93,Transmission,Number,223,units,0,v1146069876,1.93.7,2,,,,0
+2020,Canada,2016A000011124,93,Hospitalization,Number,223,units,0,v1146069877,1.93.8,9,,,,0
+2020,Canada,2016A000011124,93,Intensive care unit,Number,223,units,0,v1146069878,1.93.9,9,,,,0
+2020,Canada,2016A000011124,93,Death,Number,223,units,0,v1146069879,1.93.10,9,,,,0
+2020,Canada,2016A000011124,93,"Hospitalization, previous status",Number,223,units,0,v1146163575,1.93.11,9,,,,0
+2020,Canada,2016A000011124,93,"Intensive care unit, previous status",Number,223,units,0,v1146163576,1.93.12,9,,,,0
+2020,Canada,2016A000011124,93,"Death, previous status",Number,223,units,0,v1146163577,1.93.13,9,,,,0
+2020,Canada,2016A000011124,94,Date case was last updated - month,Number,223,units,0,v1146069880,1.94.1,5,,,,0
+2020,Canada,2016A000011124,94,Date case was last updated - day,Number,223,units,0,v1146069881,1.94.2,11,,,,0
+2020,Canada,2016A000011124,94,Episode date - month,Number,223,units,0,v1146069882,1.94.3,4,,,,0
+2020,Canada,2016A000011124,94,Episode date - day,Number,223,units,0,v1146069883,1.94.4,27,,,,0
+2020,Canada,2016A000011124,94,Gender,Number,223,units,0,v1146069884,1.94.5,1,,,,0
+2020,Canada,2016A000011124,94,Age group,Number,223,units,0,v1146069885,1.94.6,8,,,,0
+2020,Canada,2016A000011124,94,Transmission,Number,223,units,0,v1146069886,1.94.7,2,,,,0
+2020,Canada,2016A000011124,94,Hospitalization,Number,223,units,0,v1146069887,1.94.8,1,,,,0
+2020,Canada,2016A000011124,94,Intensive care unit,Number,223,units,0,v1146069888,1.94.9,9,,,,0
+2020,Canada,2016A000011124,94,Death,Number,223,units,0,v1146069889,1.94.10,9,,,,0
+2020,Canada,2016A000011124,94,"Hospitalization, previous status",Number,223,units,0,v1146163578,1.94.11,1,,,,0
+2020,Canada,2016A000011124,94,"Intensive care unit, previous status",Number,223,units,0,v1146163579,1.94.12,9,,,,0
+2020,Canada,2016A000011124,94,"Death, previous status",Number,223,units,0,v1146163580,1.94.13,9,,,,0
+2020,Canada,2016A000011124,95,Date case was last updated - month,Number,223,units,0,v1146069890,1.95.1,5,,,,0
+2020,Canada,2016A000011124,95,Date case was last updated - day,Number,223,units,0,v1146069891,1.95.2,11,,,,0
+2020,Canada,2016A000011124,95,Episode date - month,Number,223,units,0,v1146069892,1.95.3,4,,,,0
+2020,Canada,2016A000011124,95,Episode date - day,Number,223,units,0,v1146069893,1.95.4,29,,,,0
+2020,Canada,2016A000011124,95,Gender,Number,223,units,0,v1146069894,1.95.5,1,,,,0
+2020,Canada,2016A000011124,95,Age group,Number,223,units,0,v1146069895,1.95.6,3,,,,0
+2020,Canada,2016A000011124,95,Transmission,Number,223,units,0,v1146069896,1.95.7,2,,,,0
+2020,Canada,2016A000011124,95,Hospitalization,Number,223,units,0,v1146069897,1.95.8,9,,,,0
+2020,Canada,2016A000011124,95,Intensive care unit,Number,223,units,0,v1146069898,1.95.9,9,,,,0
+2020,Canada,2016A000011124,95,Death,Number,223,units,0,v1146069899,1.95.10,9,,,,0
+2020,Canada,2016A000011124,95,"Hospitalization, previous status",Number,223,units,0,v1146163581,1.95.11,9,,,,0
+2020,Canada,2016A000011124,95,"Intensive care unit, previous status",Number,223,units,0,v1146163582,1.95.12,9,,,,0
+2020,Canada,2016A000011124,95,"Death, previous status",Number,223,units,0,v1146163583,1.95.13,9,,,,0
+2020,Canada,2016A000011124,96,Date case was last updated - month,Number,223,units,0,v1146069900,1.96.1,5,,,,0
+2020,Canada,2016A000011124,96,Date case was last updated - day,Number,223,units,0,v1146069901,1.96.2,11,,,,0
+2020,Canada,2016A000011124,96,Episode date - month,Number,223,units,0,v1146069902,1.96.3,5,,,,0
+2020,Canada,2016A000011124,96,Episode date - day,Number,223,units,0,v1146069903,1.96.4,4,,,,0
+2020,Canada,2016A000011124,96,Gender,Number,223,units,0,v1146069904,1.96.5,1,,,,0
+2020,Canada,2016A000011124,96,Age group,Number,223,units,0,v1146069905,1.96.6,3,,,,0
+2020,Canada,2016A000011124,96,Transmission,Number,223,units,0,v1146069906,1.96.7,2,,,,0
+2020,Canada,2016A000011124,96,Hospitalization,Number,223,units,0,v1146069907,1.96.8,2,,,,0
+2020,Canada,2016A000011124,96,Intensive care unit,Number,223,units,0,v1146069908,1.96.9,9,,,,0
+2020,Canada,2016A000011124,96,Death,Number,223,units,0,v1146069909,1.96.10,9,,,,0
+2020,Canada,2016A000011124,96,"Hospitalization, previous status",Number,223,units,0,v1146163584,1.96.11,2,,,,0
+2020,Canada,2016A000011124,96,"Intensive care unit, previous status",Number,223,units,0,v1146163585,1.96.12,9,,,,0
+2020,Canada,2016A000011124,96,"Death, previous status",Number,223,units,0,v1146163586,1.96.13,9,,,,0
+2020,Canada,2016A000011124,97,Date case was last updated - month,Number,223,units,0,v1146069910,1.97.1,5,,,,0
+2020,Canada,2016A000011124,97,Date case was last updated - day,Number,223,units,0,v1146069911,1.97.2,11,,,,0
+2020,Canada,2016A000011124,97,Episode date - month,Number,223,units,0,v1146069912,1.97.3,4,,,,0
+2020,Canada,2016A000011124,97,Episode date - day,Number,223,units,0,v1146069913,1.97.4,24,,,,0
+2020,Canada,2016A000011124,97,Gender,Number,223,units,0,v1146069914,1.97.5,2,,,,0
+2020,Canada,2016A000011124,97,Age group,Number,223,units,0,v1146069915,1.97.6,3,,,,0
+2020,Canada,2016A000011124,97,Transmission,Number,223,units,0,v1146069916,1.97.7,1,,,,0
+2020,Canada,2016A000011124,97,Hospitalization,Number,223,units,0,v1146069917,1.97.8,2,,,,0
+2020,Canada,2016A000011124,97,Intensive care unit,Number,223,units,0,v1146069918,1.97.9,9,,,,0
+2020,Canada,2016A000011124,97,Death,Number,223,units,0,v1146069919,1.97.10,9,,,,0
+2020,Canada,2016A000011124,97,"Hospitalization, previous status",Number,223,units,0,v1146163587,1.97.11,2,,,,0
+2020,Canada,2016A000011124,97,"Intensive care unit, previous status",Number,223,units,0,v1146163588,1.97.12,9,,,,0
+2020,Canada,2016A000011124,97,"Death, previous status",Number,223,units,0,v1146163589,1.97.13,9,,,,0
+2020,Canada,2016A000011124,98,Date case was last updated - month,Number,223,units,0,v1146069920,1.98.1,5,,,,0
+2020,Canada,2016A000011124,98,Date case was last updated - day,Number,223,units,0,v1146069921,1.98.2,11,,,,0
+2020,Canada,2016A000011124,98,Episode date - month,Number,223,units,0,v1146069922,1.98.3,5,,,,0
+2020,Canada,2016A000011124,98,Episode date - day,Number,223,units,0,v1146069923,1.98.4,5,,,,0
+2020,Canada,2016A000011124,98,Gender,Number,223,units,0,v1146069924,1.98.5,1,,,,0
+2020,Canada,2016A000011124,98,Age group,Number,223,units,0,v1146069925,1.98.6,2,,,,0
+2020,Canada,2016A000011124,98,Transmission,Number,223,units,0,v1146069926,1.98.7,2,,,,0
+2020,Canada,2016A000011124,98,Hospitalization,Number,223,units,0,v1146069927,1.98.8,2,,,,0
+2020,Canada,2016A000011124,98,Intensive care unit,Number,223,units,0,v1146069928,1.98.9,9,,,,0
+2020,Canada,2016A000011124,98,Death,Number,223,units,0,v1146069929,1.98.10,9,,,,0
+2020,Canada,2016A000011124,98,"Hospitalization, previous status",Number,223,units,0,v1146163590,1.98.11,2,,,,0
+2020,Canada,2016A000011124,98,"Intensive care unit, previous status",Number,223,units,0,v1146163591,1.98.12,9,,,,0
+2020,Canada,2016A000011124,98,"Death, previous status",Number,223,units,0,v1146163592,1.98.13,9,,,,0
+2020,Canada,2016A000011124,99,Date case was last updated - month,Number,223,units,0,v1146069930,1.99.1,5,,,,0
+2020,Canada,2016A000011124,99,Date case was last updated - day,Number,223,units,0,v1146069931,1.99.2,11,,,,0
+2020,Canada,2016A000011124,99,Episode date - month,Number,223,units,0,v1146069932,1.99.3,4,,,,0
+2020,Canada,2016A000011124,99,Episode date - day,Number,223,units,0,v1146069933,1.99.4,20,,,,0
+2020,Canada,2016A000011124,99,Gender,Number,223,units,0,v1146069934,1.99.5,2,,,,0
+2020,Canada,2016A000011124,99,Age group,Number,223,units,0,v1146069935,1.99.6,2,,,,0
+2020,Canada,2016A000011124,99,Transmission,Number,223,units,0,v1146069936,1.99.7,2,,,,0
+2020,Canada,2016A000011124,99,Hospitalization,Number,223,units,0,v1146069937,1.99.8,2,,,,0
+2020,Canada,2016A000011124,99,Intensive care unit,Number,223,units,0,v1146069938,1.99.9,9,,,,0
+2020,Canada,2016A000011124,99,Death,Number,223,units,0,v1146069939,1.99.10,9,,,,0
+2020,Canada,2016A000011124,99,"Hospitalization, previous status",Number,223,units,0,v1146163593,1.99.11,2,,,,0
+2020,Canada,2016A000011124,99,"Intensive care unit, previous status",Number,223,units,0,v1146163594,1.99.12,9,,,,0
+2020,Canada,2016A000011124,99,"Death, previous status",Number,223,units,0,v1146163595,1.99.13,9,,,,0
+2020,Canada,2016A000011124,100,Date case was last updated - month,Number,223,units,0,v1146069940,1.100.1,5,,,,0
+2020,Canada,2016A000011124,100,Date case was last updated - day,Number,223,units,0,v1146069941,1.100.2,11,,,,0
+2020,Canada,2016A000011124,100,Episode date - month,Number,223,units,0,v1146069942,1.100.3,4,,,,0
+2020,Canada,2016A000011124,100,Episode date - day,Number,223,units,0,v1146069943,1.100.4,14,,,,0
+2020,Canada,2016A000011124,100,Gender,Number,223,units,0,v1146069944,1.100.5,1,,,,0
+2020,Canada,2016A000011124,100,Age group,Number,223,units,0,v1146069945,1.100.6,6,,,,0
+2020,Canada,2016A000011124,100,Transmission,Number,223,units,0,v1146069946,1.100.7,2,,,,0
+2020,Canada,2016A000011124,100,Hospitalization,Number,223,units,0,v1146069947,1.100.8,2,,,,0
+2020,Canada,2016A000011124,100,Intensive care unit,Number,223,units,0,v1146069948,1.100.9,9,,,,0
+2020,Canada,2016A000011124,100,Death,Number,223,units,0,v1146069949,1.100.10,9,,,,0
+2020,Canada,2016A000011124,100,"Hospitalization, previous status",Number,223,units,0,v1146163596,1.100.11,2,,,,0
+2020,Canada,2016A000011124,100,"Intensive care unit, previous status",Number,223,units,0,v1146163597,1.100.12,9,,,,0
+2020,Canada,2016A000011124,100,"Death, previous status",Number,223,units,0,v1146163598,1.100.13,9,,,,0
